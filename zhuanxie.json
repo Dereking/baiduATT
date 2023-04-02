@@ -1,0 +1,4254 @@
+{
+    "log_id": 16804490071245808,
+    "tasks_info": [
+        {
+            "task_status": "Success",
+            "task_result": {
+                "result": [
+                    "section three,you will hear him and Jenny two students talking about their geography assessment,first you'll have some time to look at questions twenty one to twenty five,now listen carefully and answer questions twenty one to twenty five,hi Jenny hi Tim how are you doing I'm ok but I'm really stressed out about our geography assessment next week have you done any work on it yet i've looked at it a little bit but it would be helpful to discuss it with someone else do you want to chat about it with me,that would be great do you know what the rules are for the test four hour assessment last term we were all required to collect raw data in order to achieve a pass however this term the tutor has said that it won't be necessary for us to do this,I read through the notes and they said that we are all going to be given a set of instructions that we can choose to follow if we wish but it's not mandatory and we can complete the exam as we wish,I don't think that the rules will be too strict as long as we don't copy the answers from anyone else's exam paper I think we'll be sure to pass yes I agree shall we put together a slideshow presentation with information on all of the volcanoes I think it will really help us to revise the facts ok great let's start with Pompeii it's the most well known of all the volcanoes,now it should be easy to find lots of information about it online all avoid including some of the images in the presentation as many people were killed and some of them can be quite disturbing we're lucky to have a double free period today so we will have plenty of time to revise this together,ok next up is MT Fay go this is an ancient mythical volcano the location of which is unclear there are mountainous regions in both Mexico and the USA both of which are rumored to be the site of this volcano it's not very scientific to list two separate locations for one volcano since no one has been able to prove which is the correct one,left with no choice it's interesting that there is no other example of a volcano in existence today that is surrounded by so much mystery absolutely I think we should include some information about mount Etna in Sicily which is famous for the stunning panoramas that one can appreciate from its peak,according to google its a relatively new volcano compared to others in the surrounding region which may be why it has very few of the features found in older volcanoes oh how interesting,shall we include information on MT hurt an I don't think that any of the other students have carried out much research into it even though it has a lot of unique features,I think we should leave it out since it's a man-made volcano it's not that relevant to our syllabus and probably won't be included in any of the exam questions,before you hear the rest of the conversation you have some time to look at questions twenty six to thirty,now listen and answer questions twenty six to thirty,have you gotten feedback from your tutor on your presentation last week yes I have but I don't think he was very impressed he was satisfied by the amount of research that I had prepared before I started he criticized the fact that I was mostly summarising the facts instead of giving my own opinion,oh that's a shame it was frustrating that he criticized my work but in the end I learned a lot from my tutors feedback he advised me that next time I should present my work as a short documentary film which he thinks will help me to strengthen my argument,what topic was your presentation based on I chose to write about the lack of knowledge that most people have about volcanoes and the fact that they see them in such a negative way,during documentaries and lectures the scientific experts often neglect to mention the many positive features that volcanoes possess that sounds really interesting well done I think everyone enjoyed watching but I was really nervous about talking in front of an audience I also felt very under prepared,I didn't finish writing the presentation until the night before and therefore had no time to rehearse it I'm sure it was great is there any other information that you think we should include in our slideshow for revision,yes I think it's important that we list all of the differences between active and extinct volcanoes as there will definitely be a question on this topic there are no documentaries on the subject but there's a very informative website that discusses the geological structure of each volcano type,ok well I'll continue collecting images and you can carry on with the online research,that is the end of section three you now have half a minute to check your answers,now turn to section four"
+                ],
+                "audio_duration": 398420,
+                "detailed_result": [
+                    {
+                        "res": [
+                            "section three"
+                        ],
+                        "end_time": 1795,
+                        "begin_time": 180,
+                        "words_info": [
+                            {
+                                "end_time": 1170,
+                                "words": "section",
+                                "begin_time": 580
+                            },
+                            {
+                                "end_time": 1230,
+                                "words": "three",
+                                "begin_time": 1170
+                            }
+                        ],
+                        "sn": "569611393311680446969",
+                        "corpus_no": "7217464775916727598"
+                    },
+                    {
+                        "res": [
+                            "you will hear him and Jenny two students talking about their geography assessment"
+                        ],
+                        "end_time": 9240,
+                        "begin_time": 2600,
+                        "words_info": [
+                            {
+                                "end_time": 3310,
+                                "words": "you",
+                                "begin_time": 3130
+                            },
+                            {
+                                "end_time": 3710,
+                                "words": "will",
+                                "begin_time": 3310
+                            },
+                            {
+                                "end_time": 4040,
+                                "words": "hear",
+                                "begin_time": 3710
+                            },
+                            {
+                                "end_time": 4300,
+                                "words": "him",
+                                "begin_time": 4040
+                            },
+                            {
+                                "end_time": 4550,
+                                "words": "and",
+                                "begin_time": 4310
+                            },
+                            {
+                                "end_time": 5490,
+                                "words": "Jenny",
+                                "begin_time": 4550
+                            },
+                            {
+                                "end_time": 5630,
+                                "words": "two",
+                                "begin_time": 5510
+                            },
+                            {
+                                "end_time": 6880,
+                                "words": "students",
+                                "begin_time": 5630
+                            },
+                            {
+                                "end_time": 7160,
+                                "words": "talking",
+                                "begin_time": 6880
+                            },
+                            {
+                                "end_time": 7650,
+                                "words": "about",
+                                "begin_time": 7160
+                            },
+                            {
+                                "end_time": 7900,
+                                "words": "their",
+                                "begin_time": 7650
+                            },
+                            {
+                                "end_time": 8380,
+                                "words": "geography",
+                                "begin_time": 7900
+                            },
+                            {
+                                "end_time": 9240,
+                                "words": "assessment",
+                                "begin_time": 8380
+                            }
+                        ],
+                        "sn": "604041933961680446969",
+                        "corpus_no": "7217464775915506785"
+                    },
+                    {
+                        "res": [
+                            "first you'll have some time to look at questions twenty one to twenty five"
+                        ],
+                        "end_time": 14955,
+                        "begin_time": 9520,
+                        "words_info": [
+                            {
+                                "end_time": 10540,
+                                "words": "first",
+                                "begin_time": 10030
+                            },
+                            {
+                                "end_time": 10770,
+                                "words": "you'll",
+                                "begin_time": 10540
+                            },
+                            {
+                                "end_time": 10990,
+                                "words": "have",
+                                "begin_time": 10770
+                            },
+                            {
+                                "end_time": 11550,
+                                "words": "some",
+                                "begin_time": 10990
+                            },
+                            {
+                                "end_time": 11700,
+                                "words": "time",
+                                "begin_time": 11550
+                            },
+                            {
+                                "end_time": 11840,
+                                "words": "to",
+                                "begin_time": 11700
+                            },
+                            {
+                                "end_time": 12010,
+                                "words": "look",
+                                "begin_time": 11840
+                            },
+                            {
+                                "end_time": 12200,
+                                "words": "at",
+                                "begin_time": 12010
+                            },
+                            {
+                                "end_time": 12920,
+                                "words": "questions",
+                                "begin_time": 12200
+                            },
+                            {
+                                "end_time": 13520,
+                                "words": "twenty",
+                                "begin_time": 12920
+                            },
+                            {
+                                "end_time": 13660,
+                                "words": "one",
+                                "begin_time": 13520
+                            },
+                            {
+                                "end_time": 13870,
+                                "words": "to",
+                                "begin_time": 13660
+                            },
+                            {
+                                "end_time": 14490,
+                                "words": "twenty",
+                                "begin_time": 13870
+                            },
+                            {
+                                "end_time": 14550,
+                                "words": "five",
+                                "begin_time": 14490
+                            }
+                        ],
+                        "sn": "502281943811680446969",
+                        "corpus_no": "7217464775755088571"
+                    },
+                    {
+                        "res": [
+                            "now listen carefully and answer questions twenty one to twenty five"
+                        ],
+                        "end_time": 45115,
+                        "begin_time": 39420,
+                        "words_info": [
+                            {
+                                "end_time": 40270,
+                                "words": "now",
+                                "begin_time": 40000
+                            },
+                            {
+                                "end_time": 40750,
+                                "words": "listen",
+                                "begin_time": 40270
+                            },
+                            {
+                                "end_time": 41500,
+                                "words": "carefully",
+                                "begin_time": 40750
+                            },
+                            {
+                                "end_time": 41840,
+                                "words": "and",
+                                "begin_time": 41500
+                            },
+                            {
+                                "end_time": 42270,
+                                "words": "answer",
+                                "begin_time": 41840
+                            },
+                            {
+                                "end_time": 43010,
+                                "words": "questions",
+                                "begin_time": 42270
+                            },
+                            {
+                                "end_time": 43570,
+                                "words": "twenty",
+                                "begin_time": 43010
+                            },
+                            {
+                                "end_time": 43710,
+                                "words": "one",
+                                "begin_time": 43570
+                            },
+                            {
+                                "end_time": 43920,
+                                "words": "to",
+                                "begin_time": 43710
+                            },
+                            {
+                                "end_time": 44550,
+                                "words": "twenty",
+                                "begin_time": 43920
+                            },
+                            {
+                                "end_time": 44620,
+                                "words": "five",
+                                "begin_time": 44550
+                            }
+                        ],
+                        "sn": "788455134591680446969",
+                        "corpus_no": "7217464775915513425"
+                    },
+                    {
+                        "res": [
+                            "hi Jenny hi Tim how are you doing I'm ok but I'm really stressed out about our geography assessment next week have you done any work on it yet i've looked at it a little bit but it would be helpful to discuss it with someone else do you want to chat about it with me"
+                        ],
+                        "end_time": 65300,
+                        "begin_time": 48120,
+                        "words_info": [
+                            {
+                                "end_time": 48970,
+                                "words": "hi",
+                                "begin_time": 48780
+                            },
+                            {
+                                "end_time": 49960,
+                                "words": "Jenny",
+                                "begin_time": 48970
+                            },
+                            {
+                                "end_time": 50510,
+                                "words": "hi",
+                                "begin_time": 49960
+                            },
+                            {
+                                "end_time": 50740,
+                                "words": "Tim",
+                                "begin_time": 50510
+                            },
+                            {
+                                "end_time": 50840,
+                                "words": "how",
+                                "begin_time": 50740
+                            },
+                            {
+                                "end_time": 50990,
+                                "words": "are",
+                                "begin_time": 50840
+                            },
+                            {
+                                "end_time": 51170,
+                                "words": "you",
+                                "begin_time": 50990
+                            },
+                            {
+                                "end_time": 52240,
+                                "words": "doing",
+                                "begin_time": 51170
+                            },
+                            {
+                                "end_time": 52450,
+                                "words": "I'm",
+                                "begin_time": 52240
+                            },
+                            {
+                                "end_time": 52850,
+                                "words": "ok",
+                                "begin_time": 52450
+                            },
+                            {
+                                "end_time": 53040,
+                                "words": "but",
+                                "begin_time": 52850
+                            },
+                            {
+                                "end_time": 53360,
+                                "words": "I'm",
+                                "begin_time": 53040
+                            },
+                            {
+                                "end_time": 53670,
+                                "words": "really",
+                                "begin_time": 53360
+                            },
+                            {
+                                "end_time": 54270,
+                                "words": "stressed",
+                                "begin_time": 53670
+                            },
+                            {
+                                "end_time": 54390,
+                                "words": "out",
+                                "begin_time": 54270
+                            },
+                            {
+                                "end_time": 54760,
+                                "words": "about",
+                                "begin_time": 54390
+                            },
+                            {
+                                "end_time": 55140,
+                                "words": "our",
+                                "begin_time": 54760
+                            },
+                            {
+                                "end_time": 55560,
+                                "words": "geography",
+                                "begin_time": 55140
+                            },
+                            {
+                                "end_time": 56200,
+                                "words": "assessment",
+                                "begin_time": 55560
+                            },
+                            {
+                                "end_time": 56620,
+                                "words": "next",
+                                "begin_time": 56200
+                            },
+                            {
+                                "end_time": 57210,
+                                "words": "week",
+                                "begin_time": 56620
+                            },
+                            {
+                                "end_time": 57360,
+                                "words": "have",
+                                "begin_time": 57230
+                            },
+                            {
+                                "end_time": 57510,
+                                "words": "you",
+                                "begin_time": 57360
+                            },
+                            {
+                                "end_time": 57630,
+                                "words": "done",
+                                "begin_time": 57510
+                            },
+                            {
+                                "end_time": 57960,
+                                "words": "any",
+                                "begin_time": 57630
+                            },
+                            {
+                                "end_time": 58080,
+                                "words": "work",
+                                "begin_time": 57960
+                            },
+                            {
+                                "end_time": 58210,
+                                "words": "on",
+                                "begin_time": 58080
+                            },
+                            {
+                                "end_time": 58430,
+                                "words": "it",
+                                "begin_time": 58210
+                            },
+                            {
+                                "end_time": 59100,
+                                "words": "yet",
+                                "begin_time": 58430
+                            },
+                            {
+                                "end_time": 59390,
+                                "words": "i've",
+                                "begin_time": 59130
+                            },
+                            {
+                                "end_time": 59610,
+                                "words": "looked",
+                                "begin_time": 59390
+                            },
+                            {
+                                "end_time": 59720,
+                                "words": "at",
+                                "begin_time": 59610
+                            },
+                            {
+                                "end_time": 59860,
+                                "words": "it",
+                                "begin_time": 59720
+                            },
+                            {
+                                "end_time": 59970,
+                                "words": "a",
+                                "begin_time": 59860
+                            },
+                            {
+                                "end_time": 60700,
+                                "words": "little",
+                                "begin_time": 59970
+                            },
+                            {
+                                "end_time": 60910,
+                                "words": "bit",
+                                "begin_time": 60700
+                            },
+                            {
+                                "end_time": 61070,
+                                "words": "but",
+                                "begin_time": 60910
+                            },
+                            {
+                                "end_time": 61260,
+                                "words": "it",
+                                "begin_time": 61070
+                            },
+                            {
+                                "end_time": 61460,
+                                "words": "would",
+                                "begin_time": 61260
+                            },
+                            {
+                                "end_time": 61710,
+                                "words": "be",
+                                "begin_time": 61460
+                            },
+                            {
+                                "end_time": 62030,
+                                "words": "helpful",
+                                "begin_time": 61710
+                            },
+                            {
+                                "end_time": 62240,
+                                "words": "to",
+                                "begin_time": 62030
+                            },
+                            {
+                                "end_time": 62660,
+                                "words": "discuss",
+                                "begin_time": 62240
+                            },
+                            {
+                                "end_time": 62840,
+                                "words": "it",
+                                "begin_time": 62660
+                            },
+                            {
+                                "end_time": 63010,
+                                "words": "with",
+                                "begin_time": 62840
+                            },
+                            {
+                                "end_time": 63470,
+                                "words": "someone",
+                                "begin_time": 63010
+                            },
+                            {
+                                "end_time": 64070,
+                                "words": "else",
+                                "begin_time": 63470
+                            },
+                            {
+                                "end_time": 64230,
+                                "words": "do",
+                                "begin_time": 64080
+                            },
+                            {
+                                "end_time": 64410,
+                                "words": "you",
+                                "begin_time": 64230
+                            },
+                            {
+                                "end_time": 64570,
+                                "words": "want",
+                                "begin_time": 64410
+                            },
+                            {
+                                "end_time": 64770,
+                                "words": "to",
+                                "begin_time": 64570
+                            },
+                            {
+                                "end_time": 64900,
+                                "words": "chat",
+                                "begin_time": 64770
+                            },
+                            {
+                                "end_time": 65200,
+                                "words": "about",
+                                "begin_time": 64900
+                            },
+                            {
+                                "end_time": 65300,
+                                "words": "it",
+                                "begin_time": 65200
+                            },
+                            {
+                                "end_time": 65300,
+                                "words": "with",
+                                "begin_time": 65040
+                            },
+                            {
+                                "end_time": 65300,
+                                "words": "me",
+                                "begin_time": 65640
+                            }
+                        ],
+                        "sn": "557875378341680446969",
+                        "corpus_no": "7217464775734581312"
+                    },
+                    {
+                        "res": [
+                            "that would be great do you know what the rules are for the test four hour assessment last term we were all required to collect raw data in order to achieve a pass however this term the tutor has said that it won't be necessary for us to do this"
+                        ],
+                        "end_time": 81140,
+                        "begin_time": 65640,
+                        "words_info": [
+                            {
+                                "end_time": 66230,
+                                "words": "that",
+                                "begin_time": 66080
+                            },
+                            {
+                                "end_time": 66420,
+                                "words": "would",
+                                "begin_time": 66230
+                            },
+                            {
+                                "end_time": 66840,
+                                "words": "be",
+                                "begin_time": 66420
+                            },
+                            {
+                                "end_time": 67300,
+                                "words": "great",
+                                "begin_time": 66840
+                            },
+                            {
+                                "end_time": 67400,
+                                "words": "do",
+                                "begin_time": 67310
+                            },
+                            {
+                                "end_time": 67580,
+                                "words": "you",
+                                "begin_time": 67400
+                            },
+                            {
+                                "end_time": 67710,
+                                "words": "know",
+                                "begin_time": 67580
+                            },
+                            {
+                                "end_time": 67850,
+                                "words": "what",
+                                "begin_time": 67710
+                            },
+                            {
+                                "end_time": 68130,
+                                "words": "the",
+                                "begin_time": 67850
+                            },
+                            {
+                                "end_time": 68420,
+                                "words": "rules",
+                                "begin_time": 68130
+                            },
+                            {
+                                "end_time": 68510,
+                                "words": "are",
+                                "begin_time": 68420
+                            },
+                            {
+                                "end_time": 68640,
+                                "words": "for",
+                                "begin_time": 68510
+                            },
+                            {
+                                "end_time": 69030,
+                                "words": "the",
+                                "begin_time": 68640
+                            },
+                            {
+                                "end_time": 69850,
+                                "words": "test",
+                                "begin_time": 69030
+                            },
+                            {
+                                "end_time": 70080,
+                                "words": "four",
+                                "begin_time": 69870
+                            },
+                            {
+                                "end_time": 70250,
+                                "words": "hour",
+                                "begin_time": 70080
+                            },
+                            {
+                                "end_time": 71000,
+                                "words": "assessment",
+                                "begin_time": 70250
+                            },
+                            {
+                                "end_time": 71590,
+                                "words": "last",
+                                "begin_time": 71000
+                            },
+                            {
+                                "end_time": 71760,
+                                "words": "term",
+                                "begin_time": 71590
+                            },
+                            {
+                                "end_time": 71920,
+                                "words": "we",
+                                "begin_time": 71780
+                            },
+                            {
+                                "end_time": 72180,
+                                "words": "were",
+                                "begin_time": 71920
+                            },
+                            {
+                                "end_time": 72360,
+                                "words": "all",
+                                "begin_time": 72180
+                            },
+                            {
+                                "end_time": 72840,
+                                "words": "required",
+                                "begin_time": 72360
+                            },
+                            {
+                                "end_time": 72980,
+                                "words": "to",
+                                "begin_time": 72840
+                            },
+                            {
+                                "end_time": 73550,
+                                "words": "collect",
+                                "begin_time": 72980
+                            },
+                            {
+                                "end_time": 73760,
+                                "words": "raw",
+                                "begin_time": 73550
+                            },
+                            {
+                                "end_time": 74100,
+                                "words": "data",
+                                "begin_time": 73760
+                            },
+                            {
+                                "end_time": 74280,
+                                "words": "in",
+                                "begin_time": 74100
+                            },
+                            {
+                                "end_time": 74540,
+                                "words": "order",
+                                "begin_time": 74280
+                            },
+                            {
+                                "end_time": 74720,
+                                "words": "to",
+                                "begin_time": 74540
+                            },
+                            {
+                                "end_time": 75100,
+                                "words": "achieve",
+                                "begin_time": 74720
+                            },
+                            {
+                                "end_time": 75470,
+                                "words": "a",
+                                "begin_time": 75100
+                            },
+                            {
+                                "end_time": 76020,
+                                "words": "pass",
+                                "begin_time": 75470
+                            },
+                            {
+                                "end_time": 76810,
+                                "words": "however",
+                                "begin_time": 76030
+                            },
+                            {
+                                "end_time": 77280,
+                                "words": "this",
+                                "begin_time": 76910
+                            },
+                            {
+                                "end_time": 77480,
+                                "words": "term",
+                                "begin_time": 77280
+                            },
+                            {
+                                "end_time": 77670,
+                                "words": "the",
+                                "begin_time": 77480
+                            },
+                            {
+                                "end_time": 78000,
+                                "words": "tutor",
+                                "begin_time": 77670
+                            },
+                            {
+                                "end_time": 78520,
+                                "words": "has",
+                                "begin_time": 78000
+                            },
+                            {
+                                "end_time": 78670,
+                                "words": "said",
+                                "begin_time": 78520
+                            },
+                            {
+                                "end_time": 78820,
+                                "words": "that",
+                                "begin_time": 78670
+                            },
+                            {
+                                "end_time": 79030,
+                                "words": "it",
+                                "begin_time": 78820
+                            },
+                            {
+                                "end_time": 79200,
+                                "words": "won't",
+                                "begin_time": 79030
+                            },
+                            {
+                                "end_time": 79390,
+                                "words": "be",
+                                "begin_time": 79200
+                            },
+                            {
+                                "end_time": 80040,
+                                "words": "necessary",
+                                "begin_time": 79390
+                            },
+                            {
+                                "end_time": 80260,
+                                "words": "for",
+                                "begin_time": 80040
+                            },
+                            {
+                                "end_time": 80450,
+                                "words": "us",
+                                "begin_time": 80260
+                            },
+                            {
+                                "end_time": 80680,
+                                "words": "to",
+                                "begin_time": 80450
+                            },
+                            {
+                                "end_time": 81000,
+                                "words": "do",
+                                "begin_time": 80680
+                            },
+                            {
+                                "end_time": 81140,
+                                "words": "this",
+                                "begin_time": 81000
+                            }
+                        ],
+                        "sn": "445298594711680446969",
+                        "corpus_no": "7217464775872368204"
+                    },
+                    {
+                        "res": [
+                            "I read through the notes and they said that we are all going to be given a set of instructions that we can choose to follow if we wish but it's not mandatory and we can complete the exam as we wish"
+                        ],
+                        "end_time": 91960,
+                        "begin_time": 81520,
+                        "words_info": [
+                            {
+                                "end_time": 82190,
+                                "words": "I",
+                                "begin_time": 81940
+                            },
+                            {
+                                "end_time": 82380,
+                                "words": "read",
+                                "begin_time": 82190
+                            },
+                            {
+                                "end_time": 82540,
+                                "words": "through",
+                                "begin_time": 82380
+                            },
+                            {
+                                "end_time": 82840,
+                                "words": "the",
+                                "begin_time": 82540
+                            },
+                            {
+                                "end_time": 83050,
+                                "words": "notes",
+                                "begin_time": 82840
+                            },
+                            {
+                                "end_time": 83300,
+                                "words": "and",
+                                "begin_time": 83050
+                            },
+                            {
+                                "end_time": 83580,
+                                "words": "they",
+                                "begin_time": 83300
+                            },
+                            {
+                                "end_time": 83730,
+                                "words": "said",
+                                "begin_time": 83580
+                            },
+                            {
+                                "end_time": 83840,
+                                "words": "that",
+                                "begin_time": 83730
+                            },
+                            {
+                                "end_time": 84000,
+                                "words": "we",
+                                "begin_time": 83840
+                            },
+                            {
+                                "end_time": 84250,
+                                "words": "are",
+                                "begin_time": 84000
+                            },
+                            {
+                                "end_time": 84420,
+                                "words": "all",
+                                "begin_time": 84250
+                            },
+                            {
+                                "end_time": 84540,
+                                "words": "going",
+                                "begin_time": 84420
+                            },
+                            {
+                                "end_time": 84640,
+                                "words": "to",
+                                "begin_time": 84540
+                            },
+                            {
+                                "end_time": 84760,
+                                "words": "be",
+                                "begin_time": 84640
+                            },
+                            {
+                                "end_time": 84980,
+                                "words": "given",
+                                "begin_time": 84760
+                            },
+                            {
+                                "end_time": 85140,
+                                "words": "a",
+                                "begin_time": 84980
+                            },
+                            {
+                                "end_time": 85260,
+                                "words": "set",
+                                "begin_time": 85140
+                            },
+                            {
+                                "end_time": 85470,
+                                "words": "of",
+                                "begin_time": 85260
+                            },
+                            {
+                                "end_time": 86330,
+                                "words": "instructions",
+                                "begin_time": 85470
+                            },
+                            {
+                                "end_time": 86460,
+                                "words": "that",
+                                "begin_time": 86330
+                            },
+                            {
+                                "end_time": 86670,
+                                "words": "we",
+                                "begin_time": 86460
+                            },
+                            {
+                                "end_time": 86890,
+                                "words": "can",
+                                "begin_time": 86670
+                            },
+                            {
+                                "end_time": 87110,
+                                "words": "choose",
+                                "begin_time": 86890
+                            },
+                            {
+                                "end_time": 87270,
+                                "words": "to",
+                                "begin_time": 87110
+                            },
+                            {
+                                "end_time": 87550,
+                                "words": "follow",
+                                "begin_time": 87270
+                            },
+                            {
+                                "end_time": 87770,
+                                "words": "if",
+                                "begin_time": 87550
+                            },
+                            {
+                                "end_time": 88060,
+                                "words": "we",
+                                "begin_time": 87770
+                            },
+                            {
+                                "end_time": 88460,
+                                "words": "wish",
+                                "begin_time": 88060
+                            },
+                            {
+                                "end_time": 88600,
+                                "words": "but",
+                                "begin_time": 88480
+                            },
+                            {
+                                "end_time": 88830,
+                                "words": "it's",
+                                "begin_time": 88600
+                            },
+                            {
+                                "end_time": 89010,
+                                "words": "not",
+                                "begin_time": 88830
+                            },
+                            {
+                                "end_time": 89620,
+                                "words": "mandatory",
+                                "begin_time": 89010
+                            },
+                            {
+                                "end_time": 89930,
+                                "words": "and",
+                                "begin_time": 89790
+                            },
+                            {
+                                "end_time": 90080,
+                                "words": "we",
+                                "begin_time": 89930
+                            },
+                            {
+                                "end_time": 90240,
+                                "words": "can",
+                                "begin_time": 90080
+                            },
+                            {
+                                "end_time": 90570,
+                                "words": "complete",
+                                "begin_time": 90240
+                            },
+                            {
+                                "end_time": 90720,
+                                "words": "the",
+                                "begin_time": 90570
+                            },
+                            {
+                                "end_time": 91080,
+                                "words": "exam",
+                                "begin_time": 90720
+                            },
+                            {
+                                "end_time": 91290,
+                                "words": "as",
+                                "begin_time": 91080
+                            },
+                            {
+                                "end_time": 91630,
+                                "words": "we",
+                                "begin_time": 91290
+                            },
+                            {
+                                "end_time": 91960,
+                                "words": "wish",
+                                "begin_time": 91630
+                            }
+                        ],
+                        "sn": "969368030291680446969",
+                        "corpus_no": "7217464775848880024"
+                    },
+                    {
+                        "res": [
+                            "I don't think that the rules will be too strict as long as we don't copy the answers from anyone else's exam paper I think we'll be sure to pass yes I agree shall we put together a slideshow presentation with information on all of the volcanoes I think it will really help us to revise the facts ok great let's start with Pompeii it's the most well known of all the volcanoes"
+                        ],
+                        "end_time": 110040,
+                        "begin_time": 92160,
+                        "words_info": [
+                            {
+                                "end_time": 92550,
+                                "words": "I",
+                                "begin_time": 92320
+                            },
+                            {
+                                "end_time": 92770,
+                                "words": "don't",
+                                "begin_time": 92550
+                            },
+                            {
+                                "end_time": 92920,
+                                "words": "think",
+                                "begin_time": 92770
+                            },
+                            {
+                                "end_time": 93110,
+                                "words": "that",
+                                "begin_time": 92920
+                            },
+                            {
+                                "end_time": 93450,
+                                "words": "the",
+                                "begin_time": 93110
+                            },
+                            {
+                                "end_time": 93620,
+                                "words": "rules",
+                                "begin_time": 93450
+                            },
+                            {
+                                "end_time": 93860,
+                                "words": "will",
+                                "begin_time": 93620
+                            },
+                            {
+                                "end_time": 94170,
+                                "words": "be",
+                                "begin_time": 93860
+                            },
+                            {
+                                "end_time": 94270,
+                                "words": "too",
+                                "begin_time": 94170
+                            },
+                            {
+                                "end_time": 95140,
+                                "words": "strict",
+                                "begin_time": 94270
+                            },
+                            {
+                                "end_time": 95390,
+                                "words": "as",
+                                "begin_time": 95160
+                            },
+                            {
+                                "end_time": 95530,
+                                "words": "long",
+                                "begin_time": 95390
+                            },
+                            {
+                                "end_time": 95700,
+                                "words": "as",
+                                "begin_time": 95530
+                            },
+                            {
+                                "end_time": 96000,
+                                "words": "we",
+                                "begin_time": 95700
+                            },
+                            {
+                                "end_time": 96240,
+                                "words": "don't",
+                                "begin_time": 96000
+                            },
+                            {
+                                "end_time": 96480,
+                                "words": "copy",
+                                "begin_time": 96240
+                            },
+                            {
+                                "end_time": 96760,
+                                "words": "the",
+                                "begin_time": 96480
+                            },
+                            {
+                                "end_time": 97150,
+                                "words": "answers",
+                                "begin_time": 96760
+                            },
+                            {
+                                "end_time": 97310,
+                                "words": "from",
+                                "begin_time": 97150
+                            },
+                            {
+                                "end_time": 97750,
+                                "words": "anyone",
+                                "begin_time": 97320
+                            },
+                            {
+                                "end_time": 98100,
+                                "words": "else's",
+                                "begin_time": 97750
+                            },
+                            {
+                                "end_time": 98620,
+                                "words": "exam",
+                                "begin_time": 98100
+                            },
+                            {
+                                "end_time": 99390,
+                                "words": "paper",
+                                "begin_time": 98620
+                            },
+                            {
+                                "end_time": 99570,
+                                "words": "I",
+                                "begin_time": 99410
+                            },
+                            {
+                                "end_time": 99740,
+                                "words": "think",
+                                "begin_time": 99570
+                            },
+                            {
+                                "end_time": 99960,
+                                "words": "we'll",
+                                "begin_time": 99740
+                            },
+                            {
+                                "end_time": 100200,
+                                "words": "be",
+                                "begin_time": 99960
+                            },
+                            {
+                                "end_time": 100370,
+                                "words": "sure",
+                                "begin_time": 100200
+                            },
+                            {
+                                "end_time": 100820,
+                                "words": "to",
+                                "begin_time": 100370
+                            },
+                            {
+                                "end_time": 101800,
+                                "words": "pass",
+                                "begin_time": 100820
+                            },
+                            {
+                                "end_time": 102130,
+                                "words": "yes",
+                                "begin_time": 101810
+                            },
+                            {
+                                "end_time": 102140,
+                                "words": "I",
+                                "begin_time": 102130
+                            },
+                            {
+                                "end_time": 102990,
+                                "words": "agree",
+                                "begin_time": 102140
+                            },
+                            {
+                                "end_time": 103140,
+                                "words": "shall",
+                                "begin_time": 103000
+                            },
+                            {
+                                "end_time": 103270,
+                                "words": "we",
+                                "begin_time": 103140
+                            },
+                            {
+                                "end_time": 103380,
+                                "words": "put",
+                                "begin_time": 103270
+                            },
+                            {
+                                "end_time": 103730,
+                                "words": "together",
+                                "begin_time": 103380
+                            },
+                            {
+                                "end_time": 103820,
+                                "words": "a",
+                                "begin_time": 103730
+                            },
+                            {
+                                "end_time": 104410,
+                                "words": "slideshow",
+                                "begin_time": 103820
+                            },
+                            {
+                                "end_time": 105020,
+                                "words": "presentation",
+                                "begin_time": 104410
+                            },
+                            {
+                                "end_time": 105200,
+                                "words": "with",
+                                "begin_time": 105020
+                            },
+                            {
+                                "end_time": 105790,
+                                "words": "information",
+                                "begin_time": 105200
+                            },
+                            {
+                                "end_time": 105940,
+                                "words": "on",
+                                "begin_time": 105790
+                            },
+                            {
+                                "end_time": 106060,
+                                "words": "all",
+                                "begin_time": 105940
+                            },
+                            {
+                                "end_time": 106160,
+                                "words": "of",
+                                "begin_time": 106060
+                            },
+                            {
+                                "end_time": 106340,
+                                "words": "the",
+                                "begin_time": 106160
+                            },
+                            {
+                                "end_time": 107390,
+                                "words": "volcanoes",
+                                "begin_time": 106340
+                            },
+                            {
+                                "end_time": 107520,
+                                "words": "I",
+                                "begin_time": 107410
+                            },
+                            {
+                                "end_time": 107650,
+                                "words": "think",
+                                "begin_time": 107520
+                            },
+                            {
+                                "end_time": 107850,
+                                "words": "it",
+                                "begin_time": 107650
+                            },
+                            {
+                                "end_time": 108080,
+                                "words": "will",
+                                "begin_time": 107850
+                            },
+                            {
+                                "end_time": 108420,
+                                "words": "really",
+                                "begin_time": 108080
+                            },
+                            {
+                                "end_time": 108620,
+                                "words": "help",
+                                "begin_time": 108420
+                            },
+                            {
+                                "end_time": 108790,
+                                "words": "us",
+                                "begin_time": 108620
+                            },
+                            {
+                                "end_time": 108910,
+                                "words": "to",
+                                "begin_time": 108790
+                            },
+                            {
+                                "end_time": 109370,
+                                "words": "revise",
+                                "begin_time": 108910
+                            },
+                            {
+                                "end_time": 109830,
+                                "words": "the",
+                                "begin_time": 109370
+                            },
+                            {
+                                "end_time": 110040,
+                                "words": "facts",
+                                "begin_time": 109830
+                            }
+                        ],
+                        "sn": "58445439941680446970",
+                        "corpus_no": "7217464779984672857"
+                    },
+                    {
+                        "res": [
+                            "now it should be easy to find lots of information about it online all avoid including some of the images in the presentation as many people were killed and some of them can be quite disturbing we're lucky to have a double free period today so we will have plenty of time to revise this together"
+                        ],
+                        "end_time": 133160,
+                        "begin_time": 116080,
+                        "words_info": [
+                            {
+                                "end_time": 116480,
+                                "words": "now",
+                                "begin_time": 116280
+                            },
+                            {
+                                "end_time": 116700,
+                                "words": "it",
+                                "begin_time": 116480
+                            },
+                            {
+                                "end_time": 116900,
+                                "words": "should",
+                                "begin_time": 116700
+                            },
+                            {
+                                "end_time": 117110,
+                                "words": "be",
+                                "begin_time": 116900
+                            },
+                            {
+                                "end_time": 117410,
+                                "words": "easy",
+                                "begin_time": 117110
+                            },
+                            {
+                                "end_time": 117660,
+                                "words": "to",
+                                "begin_time": 117410
+                            },
+                            {
+                                "end_time": 118020,
+                                "words": "find",
+                                "begin_time": 117660
+                            },
+                            {
+                                "end_time": 118190,
+                                "words": "lots",
+                                "begin_time": 118020
+                            },
+                            {
+                                "end_time": 118380,
+                                "words": "of",
+                                "begin_time": 118190
+                            },
+                            {
+                                "end_time": 118960,
+                                "words": "information",
+                                "begin_time": 118380
+                            },
+                            {
+                                "end_time": 119330,
+                                "words": "about",
+                                "begin_time": 118960
+                            },
+                            {
+                                "end_time": 119590,
+                                "words": "it",
+                                "begin_time": 119330
+                            },
+                            {
+                                "end_time": 120620,
+                                "words": "online",
+                                "begin_time": 119590
+                            },
+                            {
+                                "end_time": 120770,
+                                "words": "all",
+                                "begin_time": 120640
+                            },
+                            {
+                                "end_time": 121130,
+                                "words": "avoid",
+                                "begin_time": 120770
+                            },
+                            {
+                                "end_time": 121570,
+                                "words": "including",
+                                "begin_time": 121130
+                            },
+                            {
+                                "end_time": 121680,
+                                "words": "some",
+                                "begin_time": 121570
+                            },
+                            {
+                                "end_time": 121790,
+                                "words": "of",
+                                "begin_time": 121680
+                            },
+                            {
+                                "end_time": 121920,
+                                "words": "the",
+                                "begin_time": 121790
+                            },
+                            {
+                                "end_time": 122310,
+                                "words": "images",
+                                "begin_time": 121920
+                            },
+                            {
+                                "end_time": 122410,
+                                "words": "in",
+                                "begin_time": 122310
+                            },
+                            {
+                                "end_time": 122550,
+                                "words": "the",
+                                "begin_time": 122410
+                            },
+                            {
+                                "end_time": 123500,
+                                "words": "presentation",
+                                "begin_time": 122550
+                            },
+                            {
+                                "end_time": 123750,
+                                "words": "as",
+                                "begin_time": 123540
+                            },
+                            {
+                                "end_time": 124000,
+                                "words": "many",
+                                "begin_time": 123750
+                            },
+                            {
+                                "end_time": 124270,
+                                "words": "people",
+                                "begin_time": 124000
+                            },
+                            {
+                                "end_time": 124610,
+                                "words": "were",
+                                "begin_time": 124270
+                            },
+                            {
+                                "end_time": 125040,
+                                "words": "killed",
+                                "begin_time": 124610
+                            },
+                            {
+                                "end_time": 125190,
+                                "words": "and",
+                                "begin_time": 125060
+                            },
+                            {
+                                "end_time": 125310,
+                                "words": "some",
+                                "begin_time": 125190
+                            },
+                            {
+                                "end_time": 125480,
+                                "words": "of",
+                                "begin_time": 125310
+                            },
+                            {
+                                "end_time": 125650,
+                                "words": "them",
+                                "begin_time": 125480
+                            },
+                            {
+                                "end_time": 125790,
+                                "words": "can",
+                                "begin_time": 125650
+                            },
+                            {
+                                "end_time": 126160,
+                                "words": "be",
+                                "begin_time": 125790
+                            },
+                            {
+                                "end_time": 126360,
+                                "words": "quite",
+                                "begin_time": 126160
+                            },
+                            {
+                                "end_time": 127470,
+                                "words": "disturbing",
+                                "begin_time": 126360
+                            },
+                            {
+                                "end_time": 127650,
+                                "words": "we're",
+                                "begin_time": 127490
+                            },
+                            {
+                                "end_time": 127890,
+                                "words": "lucky",
+                                "begin_time": 127650
+                            },
+                            {
+                                "end_time": 128000,
+                                "words": "to",
+                                "begin_time": 127890
+                            },
+                            {
+                                "end_time": 128140,
+                                "words": "have",
+                                "begin_time": 128000
+                            },
+                            {
+                                "end_time": 128270,
+                                "words": "a",
+                                "begin_time": 128140
+                            },
+                            {
+                                "end_time": 128680,
+                                "words": "double",
+                                "begin_time": 128270
+                            },
+                            {
+                                "end_time": 128930,
+                                "words": "free",
+                                "begin_time": 128680
+                            },
+                            {
+                                "end_time": 129250,
+                                "words": "period",
+                                "begin_time": 128930
+                            },
+                            {
+                                "end_time": 130110,
+                                "words": "today",
+                                "begin_time": 129250
+                            },
+                            {
+                                "end_time": 130250,
+                                "words": "so",
+                                "begin_time": 130130
+                            },
+                            {
+                                "end_time": 130360,
+                                "words": "we",
+                                "begin_time": 130250
+                            },
+                            {
+                                "end_time": 130520,
+                                "words": "will",
+                                "begin_time": 130360
+                            },
+                            {
+                                "end_time": 130940,
+                                "words": "have",
+                                "begin_time": 130520
+                            },
+                            {
+                                "end_time": 131190,
+                                "words": "plenty",
+                                "begin_time": 130940
+                            },
+                            {
+                                "end_time": 131510,
+                                "words": "of",
+                                "begin_time": 131190
+                            },
+                            {
+                                "end_time": 131640,
+                                "words": "time",
+                                "begin_time": 131510
+                            },
+                            {
+                                "end_time": 131790,
+                                "words": "to",
+                                "begin_time": 131640
+                            },
+                            {
+                                "end_time": 132300,
+                                "words": "revise",
+                                "begin_time": 131790
+                            },
+                            {
+                                "end_time": 132510,
+                                "words": "this",
+                                "begin_time": 132300
+                            },
+                            {
+                                "end_time": 133160,
+                                "words": "together",
+                                "begin_time": 132510
+                            }
+                        ],
+                        "sn": "14301291221680446970",
+                        "corpus_no": "7217464780014025629"
+                    },
+                    {
+                        "res": [
+                            "ok next up is MT Fay go this is an ancient mythical volcano the location of which is unclear there are mountainous regions in both Mexico and the USA both of which are rumored to be the site of this volcano it's not very scientific to list two separate locations for one volcano since no one has been able to prove which is the correct one"
+                        ],
+                        "end_time": 153240,
+                        "begin_time": 133420,
+                        "words_info": [
+                            {
+                                "end_time": 134640,
+                                "words": "ok",
+                                "begin_time": 133770
+                            },
+                            {
+                                "end_time": 134960,
+                                "words": "next",
+                                "begin_time": 134640
+                            },
+                            {
+                                "end_time": 135110,
+                                "words": "up",
+                                "begin_time": 134960
+                            },
+                            {
+                                "end_time": 135500,
+                                "words": "is",
+                                "begin_time": 135110
+                            },
+                            {
+                                "end_time": 135780,
+                                "words": "MT",
+                                "begin_time": 135500
+                            },
+                            {
+                                "end_time": 136510,
+                                "words": "Fay",
+                                "begin_time": 135780
+                            },
+                            {
+                                "end_time": 136730,
+                                "words": "go",
+                                "begin_time": 136510
+                            },
+                            {
+                                "end_time": 136900,
+                                "words": "this",
+                                "begin_time": 136750
+                            },
+                            {
+                                "end_time": 137110,
+                                "words": "is",
+                                "begin_time": 136900
+                            },
+                            {
+                                "end_time": 137370,
+                                "words": "an",
+                                "begin_time": 137110
+                            },
+                            {
+                                "end_time": 137850,
+                                "words": "ancient",
+                                "begin_time": 137370
+                            },
+                            {
+                                "end_time": 138440,
+                                "words": "mythical",
+                                "begin_time": 137850
+                            },
+                            {
+                                "end_time": 139260,
+                                "words": "volcano",
+                                "begin_time": 138440
+                            },
+                            {
+                                "end_time": 139440,
+                                "words": "the",
+                                "begin_time": 139270
+                            },
+                            {
+                                "end_time": 139950,
+                                "words": "location",
+                                "begin_time": 139440
+                            },
+                            {
+                                "end_time": 140140,
+                                "words": "of",
+                                "begin_time": 139950
+                            },
+                            {
+                                "end_time": 140320,
+                                "words": "which",
+                                "begin_time": 140140
+                            },
+                            {
+                                "end_time": 140660,
+                                "words": "is",
+                                "begin_time": 140320
+                            },
+                            {
+                                "end_time": 141750,
+                                "words": "unclear",
+                                "begin_time": 140660
+                            },
+                            {
+                                "end_time": 142050,
+                                "words": "there",
+                                "begin_time": 141770
+                            },
+                            {
+                                "end_time": 142260,
+                                "words": "are",
+                                "begin_time": 142050
+                            },
+                            {
+                                "end_time": 142790,
+                                "words": "mountainous",
+                                "begin_time": 142260
+                            },
+                            {
+                                "end_time": 143170,
+                                "words": "regions",
+                                "begin_time": 142790
+                            },
+                            {
+                                "end_time": 143360,
+                                "words": "in",
+                                "begin_time": 143170
+                            },
+                            {
+                                "end_time": 143680,
+                                "words": "both",
+                                "begin_time": 143360
+                            },
+                            {
+                                "end_time": 144250,
+                                "words": "Mexico",
+                                "begin_time": 143680
+                            },
+                            {
+                                "end_time": 144400,
+                                "words": "and",
+                                "begin_time": 144250
+                            },
+                            {
+                                "end_time": 144540,
+                                "words": "the",
+                                "begin_time": 144400
+                            },
+                            {
+                                "end_time": 145530,
+                                "words": "USA",
+                                "begin_time": 144540
+                            },
+                            {
+                                "end_time": 145720,
+                                "words": "both",
+                                "begin_time": 145550
+                            },
+                            {
+                                "end_time": 145880,
+                                "words": "of",
+                                "begin_time": 145720
+                            },
+                            {
+                                "end_time": 146120,
+                                "words": "which",
+                                "begin_time": 145880
+                            },
+                            {
+                                "end_time": 146310,
+                                "words": "are",
+                                "begin_time": 146120
+                            },
+                            {
+                                "end_time": 146630,
+                                "words": "rumored",
+                                "begin_time": 146310
+                            },
+                            {
+                                "end_time": 146770,
+                                "words": "to",
+                                "begin_time": 146630
+                            },
+                            {
+                                "end_time": 146970,
+                                "words": "be",
+                                "begin_time": 146770
+                            },
+                            {
+                                "end_time": 147300,
+                                "words": "the",
+                                "begin_time": 146970
+                            },
+                            {
+                                "end_time": 147500,
+                                "words": "site",
+                                "begin_time": 147300
+                            },
+                            {
+                                "end_time": 147670,
+                                "words": "of",
+                                "begin_time": 147500
+                            },
+                            {
+                                "end_time": 147950,
+                                "words": "this",
+                                "begin_time": 147670
+                            },
+                            {
+                                "end_time": 149010,
+                                "words": "volcano",
+                                "begin_time": 147950
+                            },
+                            {
+                                "end_time": 149270,
+                                "words": "it's",
+                                "begin_time": 149030
+                            },
+                            {
+                                "end_time": 149410,
+                                "words": "not",
+                                "begin_time": 149270
+                            },
+                            {
+                                "end_time": 149850,
+                                "words": "very",
+                                "begin_time": 149410
+                            },
+                            {
+                                "end_time": 150330,
+                                "words": "scientific",
+                                "begin_time": 149850
+                            },
+                            {
+                                "end_time": 150470,
+                                "words": "to",
+                                "begin_time": 150330
+                            },
+                            {
+                                "end_time": 150920,
+                                "words": "list",
+                                "begin_time": 150470
+                            },
+                            {
+                                "end_time": 151140,
+                                "words": "two",
+                                "begin_time": 150920
+                            },
+                            {
+                                "end_time": 151500,
+                                "words": "separate",
+                                "begin_time": 151140
+                            },
+                            {
+                                "end_time": 152180,
+                                "words": "locations",
+                                "begin_time": 151500
+                            },
+                            {
+                                "end_time": 152390,
+                                "words": "for",
+                                "begin_time": 152180
+                            },
+                            {
+                                "end_time": 152610,
+                                "words": "one",
+                                "begin_time": 152390
+                            },
+                            {
+                                "end_time": 153240,
+                                "words": "volcano",
+                                "begin_time": 152610
+                            }
+                        ],
+                        "sn": "499222345641680446970",
+                        "corpus_no": "7217464780125112241"
+                    },
+                    {
+                        "res": [
+                            "left with no choice it's interesting that there is no other example of a volcano in existence today that is surrounded by so much mystery absolutely I think we should include some information about mount Etna in Sicily which is famous for the stunning panoramas that one can appreciate from its peak"
+                        ],
+                        "end_time": 175840,
+                        "begin_time": 156740,
+                        "words_info": [
+                            {
+                                "end_time": 157310,
+                                "words": "left",
+                                "begin_time": 157110
+                            },
+                            {
+                                "end_time": 157600,
+                                "words": "with",
+                                "begin_time": 157310
+                            },
+                            {
+                                "end_time": 157950,
+                                "words": "no",
+                                "begin_time": 157600
+                            },
+                            {
+                                "end_time": 158690,
+                                "words": "choice",
+                                "begin_time": 157950
+                            },
+                            {
+                                "end_time": 158980,
+                                "words": "it's",
+                                "begin_time": 158710
+                            },
+                            {
+                                "end_time": 159510,
+                                "words": "interesting",
+                                "begin_time": 158980
+                            },
+                            {
+                                "end_time": 159630,
+                                "words": "that",
+                                "begin_time": 159510
+                            },
+                            {
+                                "end_time": 159750,
+                                "words": "there",
+                                "begin_time": 159630
+                            },
+                            {
+                                "end_time": 160010,
+                                "words": "is",
+                                "begin_time": 159750
+                            },
+                            {
+                                "end_time": 160170,
+                                "words": "no",
+                                "begin_time": 160010
+                            },
+                            {
+                                "end_time": 160420,
+                                "words": "other",
+                                "begin_time": 160170
+                            },
+                            {
+                                "end_time": 160860,
+                                "words": "example",
+                                "begin_time": 160420
+                            },
+                            {
+                                "end_time": 161010,
+                                "words": "of",
+                                "begin_time": 160860
+                            },
+                            {
+                                "end_time": 161270,
+                                "words": "a",
+                                "begin_time": 161010
+                            },
+                            {
+                                "end_time": 161720,
+                                "words": "volcano",
+                                "begin_time": 161270
+                            },
+                            {
+                                "end_time": 161910,
+                                "words": "in",
+                                "begin_time": 161720
+                            },
+                            {
+                                "end_time": 162570,
+                                "words": "existence",
+                                "begin_time": 161910
+                            },
+                            {
+                                "end_time": 163230,
+                                "words": "today",
+                                "begin_time": 162570
+                            },
+                            {
+                                "end_time": 163400,
+                                "words": "that",
+                                "begin_time": 163250
+                            },
+                            {
+                                "end_time": 163540,
+                                "words": "is",
+                                "begin_time": 163400
+                            },
+                            {
+                                "end_time": 164490,
+                                "words": "surrounded",
+                                "begin_time": 163540
+                            },
+                            {
+                                "end_time": 164680,
+                                "words": "by",
+                                "begin_time": 164490
+                            },
+                            {
+                                "end_time": 164830,
+                                "words": "so",
+                                "begin_time": 164680
+                            },
+                            {
+                                "end_time": 165160,
+                                "words": "much",
+                                "begin_time": 164830
+                            },
+                            {
+                                "end_time": 166090,
+                                "words": "mystery",
+                                "begin_time": 165160
+                            },
+                            {
+                                "end_time": 167310,
+                                "words": "absolutely",
+                                "begin_time": 166110
+                            },
+                            {
+                                "end_time": 167530,
+                                "words": "I",
+                                "begin_time": 167330
+                            },
+                            {
+                                "end_time": 167710,
+                                "words": "think",
+                                "begin_time": 167530
+                            },
+                            {
+                                "end_time": 167850,
+                                "words": "we",
+                                "begin_time": 167710
+                            },
+                            {
+                                "end_time": 168080,
+                                "words": "should",
+                                "begin_time": 167850
+                            },
+                            {
+                                "end_time": 168490,
+                                "words": "include",
+                                "begin_time": 168080
+                            },
+                            {
+                                "end_time": 168690,
+                                "words": "some",
+                                "begin_time": 168490
+                            },
+                            {
+                                "end_time": 169330,
+                                "words": "information",
+                                "begin_time": 168690
+                            },
+                            {
+                                "end_time": 169850,
+                                "words": "about",
+                                "begin_time": 169330
+                            },
+                            {
+                                "end_time": 170090,
+                                "words": "mount",
+                                "begin_time": 169850
+                            },
+                            {
+                                "end_time": 170510,
+                                "words": "Etna",
+                                "begin_time": 170090
+                            },
+                            {
+                                "end_time": 170670,
+                                "words": "in",
+                                "begin_time": 170510
+                            },
+                            {
+                                "end_time": 171420,
+                                "words": "Sicily",
+                                "begin_time": 170670
+                            },
+                            {
+                                "end_time": 171610,
+                                "words": "which",
+                                "begin_time": 171430
+                            },
+                            {
+                                "end_time": 171920,
+                                "words": "is",
+                                "begin_time": 171610
+                            },
+                            {
+                                "end_time": 172290,
+                                "words": "famous",
+                                "begin_time": 171920
+                            },
+                            {
+                                "end_time": 172490,
+                                "words": "for",
+                                "begin_time": 172290
+                            },
+                            {
+                                "end_time": 172590,
+                                "words": "the",
+                                "begin_time": 172490
+                            },
+                            {
+                                "end_time": 173140,
+                                "words": "stunning",
+                                "begin_time": 172590
+                            },
+                            {
+                                "end_time": 173840,
+                                "words": "panoramas",
+                                "begin_time": 173140
+                            },
+                            {
+                                "end_time": 174050,
+                                "words": "that",
+                                "begin_time": 173840
+                            },
+                            {
+                                "end_time": 174180,
+                                "words": "one",
+                                "begin_time": 174050
+                            },
+                            {
+                                "end_time": 174340,
+                                "words": "can",
+                                "begin_time": 174180
+                            },
+                            {
+                                "end_time": 175030,
+                                "words": "appreciate",
+                                "begin_time": 174340
+                            },
+                            {
+                                "end_time": 175200,
+                                "words": "from",
+                                "begin_time": 175030
+                            },
+                            {
+                                "end_time": 175570,
+                                "words": "its",
+                                "begin_time": 175200
+                            },
+                            {
+                                "end_time": 175840,
+                                "words": "peak",
+                                "begin_time": 175570
+                            }
+                        ],
+                        "sn": "695806050641680446970",
+                        "corpus_no": "7217464780174406589"
+                    },
+                    {
+                        "res": [
+                            "according to google its a relatively new volcano compared to others in the surrounding region which may be why it has very few of the features found in older volcanoes oh how interesting"
+                        ],
+                        "end_time": 189300,
+                        "begin_time": 176040,
+                        "words_info": [
+                            {
+                                "end_time": 176890,
+                                "words": "according",
+                                "begin_time": 176350
+                            },
+                            {
+                                "end_time": 177120,
+                                "words": "to",
+                                "begin_time": 176890
+                            },
+                            {
+                                "end_time": 177710,
+                                "words": "google",
+                                "begin_time": 177120
+                            },
+                            {
+                                "end_time": 177920,
+                                "words": "its",
+                                "begin_time": 177740
+                            },
+                            {
+                                "end_time": 178080,
+                                "words": "a",
+                                "begin_time": 177920
+                            },
+                            {
+                                "end_time": 178890,
+                                "words": "relatively",
+                                "begin_time": 178080
+                            },
+                            {
+                                "end_time": 179140,
+                                "words": "new",
+                                "begin_time": 178890
+                            },
+                            {
+                                "end_time": 179970,
+                                "words": "volcano",
+                                "begin_time": 179140
+                            },
+                            {
+                                "end_time": 180350,
+                                "words": "compared",
+                                "begin_time": 179970
+                            },
+                            {
+                                "end_time": 180530,
+                                "words": "to",
+                                "begin_time": 180350
+                            },
+                            {
+                                "end_time": 180820,
+                                "words": "others",
+                                "begin_time": 180530
+                            },
+                            {
+                                "end_time": 180960,
+                                "words": "in",
+                                "begin_time": 180820
+                            },
+                            {
+                                "end_time": 181110,
+                                "words": "the",
+                                "begin_time": 180960
+                            },
+                            {
+                                "end_time": 181650,
+                                "words": "surrounding",
+                                "begin_time": 181110
+                            },
+                            {
+                                "end_time": 182470,
+                                "words": "region",
+                                "begin_time": 181650
+                            },
+                            {
+                                "end_time": 182870,
+                                "words": "which",
+                                "begin_time": 182470
+                            },
+                            {
+                                "end_time": 183160,
+                                "words": "may",
+                                "begin_time": 182870
+                            },
+                            {
+                                "end_time": 183340,
+                                "words": "be",
+                                "begin_time": 183160
+                            },
+                            {
+                                "end_time": 183500,
+                                "words": "why",
+                                "begin_time": 183340
+                            },
+                            {
+                                "end_time": 183690,
+                                "words": "it",
+                                "begin_time": 183500
+                            },
+                            {
+                                "end_time": 183960,
+                                "words": "has",
+                                "begin_time": 183690
+                            },
+                            {
+                                "end_time": 184330,
+                                "words": "very",
+                                "begin_time": 183960
+                            },
+                            {
+                                "end_time": 184490,
+                                "words": "few",
+                                "begin_time": 184330
+                            },
+                            {
+                                "end_time": 184650,
+                                "words": "of",
+                                "begin_time": 184490
+                            },
+                            {
+                                "end_time": 184840,
+                                "words": "the",
+                                "begin_time": 184650
+                            },
+                            {
+                                "end_time": 185400,
+                                "words": "features",
+                                "begin_time": 184840
+                            },
+                            {
+                                "end_time": 185590,
+                                "words": "found",
+                                "begin_time": 185400
+                            },
+                            {
+                                "end_time": 185800,
+                                "words": "in",
+                                "begin_time": 185590
+                            },
+                            {
+                                "end_time": 186180,
+                                "words": "older",
+                                "begin_time": 185800
+                            },
+                            {
+                                "end_time": 187720,
+                                "words": "volcanoes",
+                                "begin_time": 186180
+                            },
+                            {
+                                "end_time": 188160,
+                                "words": "oh",
+                                "begin_time": 187730
+                            },
+                            {
+                                "end_time": 188460,
+                                "words": "how",
+                                "begin_time": 188160
+                            },
+                            {
+                                "end_time": 189300,
+                                "words": "interesting",
+                                "begin_time": 188460
+                            }
+                        ],
+                        "sn": "897036810551680446970",
+                        "corpus_no": "7217464780072961604"
+                    },
+                    {
+                        "res": [
+                            "shall we include information on MT hurt an I don't think that any of the other students have carried out much research into it even though it has a lot of unique features"
+                        ],
+                        "end_time": 199920,
+                        "begin_time": 189580,
+                        "words_info": [
+                            {
+                                "end_time": 190030,
+                                "words": "shall",
+                                "begin_time": 189870
+                            },
+                            {
+                                "end_time": 190230,
+                                "words": "we",
+                                "begin_time": 190030
+                            },
+                            {
+                                "end_time": 190600,
+                                "words": "include",
+                                "begin_time": 190230
+                            },
+                            {
+                                "end_time": 191390,
+                                "words": "information",
+                                "begin_time": 190600
+                            },
+                            {
+                                "end_time": 191650,
+                                "words": "on",
+                                "begin_time": 191390
+                            },
+                            {
+                                "end_time": 191870,
+                                "words": "MT",
+                                "begin_time": 191650
+                            },
+                            {
+                                "end_time": 192620,
+                                "words": "hurt",
+                                "begin_time": 191870
+                            },
+                            {
+                                "end_time": 192830,
+                                "words": "an",
+                                "begin_time": 192620
+                            },
+                            {
+                                "end_time": 192990,
+                                "words": "I",
+                                "begin_time": 192830
+                            },
+                            {
+                                "end_time": 193200,
+                                "words": "don't",
+                                "begin_time": 192990
+                            },
+                            {
+                                "end_time": 193400,
+                                "words": "think",
+                                "begin_time": 193200
+                            },
+                            {
+                                "end_time": 193600,
+                                "words": "that",
+                                "begin_time": 193400
+                            },
+                            {
+                                "end_time": 193790,
+                                "words": "any",
+                                "begin_time": 193600
+                            },
+                            {
+                                "end_time": 193910,
+                                "words": "of",
+                                "begin_time": 193790
+                            },
+                            {
+                                "end_time": 194070,
+                                "words": "the",
+                                "begin_time": 193910
+                            },
+                            {
+                                "end_time": 194350,
+                                "words": "other",
+                                "begin_time": 194070
+                            },
+                            {
+                                "end_time": 194920,
+                                "words": "students",
+                                "begin_time": 194350
+                            },
+                            {
+                                "end_time": 195100,
+                                "words": "have",
+                                "begin_time": 194920
+                            },
+                            {
+                                "end_time": 195430,
+                                "words": "carried",
+                                "begin_time": 195100
+                            },
+                            {
+                                "end_time": 195640,
+                                "words": "out",
+                                "begin_time": 195430
+                            },
+                            {
+                                "end_time": 195940,
+                                "words": "much",
+                                "begin_time": 195640
+                            },
+                            {
+                                "end_time": 196340,
+                                "words": "research",
+                                "begin_time": 195940
+                            },
+                            {
+                                "end_time": 197010,
+                                "words": "into",
+                                "begin_time": 196340
+                            },
+                            {
+                                "end_time": 197180,
+                                "words": "it",
+                                "begin_time": 197010
+                            },
+                            {
+                                "end_time": 197500,
+                                "words": "even",
+                                "begin_time": 197220
+                            },
+                            {
+                                "end_time": 197680,
+                                "words": "though",
+                                "begin_time": 197500
+                            },
+                            {
+                                "end_time": 197930,
+                                "words": "it",
+                                "begin_time": 197680
+                            },
+                            {
+                                "end_time": 198130,
+                                "words": "has",
+                                "begin_time": 197930
+                            },
+                            {
+                                "end_time": 198320,
+                                "words": "a",
+                                "begin_time": 198130
+                            },
+                            {
+                                "end_time": 198480,
+                                "words": "lot",
+                                "begin_time": 198320
+                            },
+                            {
+                                "end_time": 198700,
+                                "words": "of",
+                                "begin_time": 198480
+                            },
+                            {
+                                "end_time": 199230,
+                                "words": "unique",
+                                "begin_time": 198700
+                            },
+                            {
+                                "end_time": 199920,
+                                "words": "features",
+                                "begin_time": 199230
+                            }
+                        ],
+                        "sn": "791456918851680446970",
+                        "corpus_no": "7217464780211057079"
+                    },
+                    {
+                        "res": [
+                            "I think we should leave it out since it's a man-made volcano it's not that relevant to our syllabus and probably won't be included in any of the exam questions"
+                        ],
+                        "end_time": 209915,
+                        "begin_time": 200100,
+                        "words_info": [
+                            {
+                                "end_time": 200460,
+                                "words": "I",
+                                "begin_time": 200310
+                            },
+                            {
+                                "end_time": 200610,
+                                "words": "think",
+                                "begin_time": 200460
+                            },
+                            {
+                                "end_time": 200770,
+                                "words": "we",
+                                "begin_time": 200610
+                            },
+                            {
+                                "end_time": 200960,
+                                "words": "should",
+                                "begin_time": 200770
+                            },
+                            {
+                                "end_time": 201100,
+                                "words": "leave",
+                                "begin_time": 200960
+                            },
+                            {
+                                "end_time": 201430,
+                                "words": "it",
+                                "begin_time": 201100
+                            },
+                            {
+                                "end_time": 201960,
+                                "words": "out",
+                                "begin_time": 201430
+                            },
+                            {
+                                "end_time": 202210,
+                                "words": "since",
+                                "begin_time": 201980
+                            },
+                            {
+                                "end_time": 202420,
+                                "words": "it's",
+                                "begin_time": 202210
+                            },
+                            {
+                                "end_time": 202730,
+                                "words": "a",
+                                "begin_time": 202420
+                            },
+                            {
+                                "end_time": 203330,
+                                "words": "man-made",
+                                "begin_time": 202730
+                            },
+                            {
+                                "end_time": 204130,
+                                "words": "volcano",
+                                "begin_time": 203330
+                            },
+                            {
+                                "end_time": 204390,
+                                "words": "it's",
+                                "begin_time": 204160
+                            },
+                            {
+                                "end_time": 204630,
+                                "words": "not",
+                                "begin_time": 204390
+                            },
+                            {
+                                "end_time": 204770,
+                                "words": "that",
+                                "begin_time": 204630
+                            },
+                            {
+                                "end_time": 205200,
+                                "words": "relevant",
+                                "begin_time": 204770
+                            },
+                            {
+                                "end_time": 205430,
+                                "words": "to",
+                                "begin_time": 205200
+                            },
+                            {
+                                "end_time": 205540,
+                                "words": "our",
+                                "begin_time": 205430
+                            },
+                            {
+                                "end_time": 206440,
+                                "words": "syllabus",
+                                "begin_time": 205540
+                            },
+                            {
+                                "end_time": 206630,
+                                "words": "and",
+                                "begin_time": 206460
+                            },
+                            {
+                                "end_time": 207150,
+                                "words": "probably",
+                                "begin_time": 206630
+                            },
+                            {
+                                "end_time": 207270,
+                                "words": "won't",
+                                "begin_time": 207150
+                            },
+                            {
+                                "end_time": 207460,
+                                "words": "be",
+                                "begin_time": 207270
+                            },
+                            {
+                                "end_time": 208010,
+                                "words": "included",
+                                "begin_time": 207460
+                            },
+                            {
+                                "end_time": 208170,
+                                "words": "in",
+                                "begin_time": 208010
+                            },
+                            {
+                                "end_time": 208370,
+                                "words": "any",
+                                "begin_time": 208170
+                            },
+                            {
+                                "end_time": 208480,
+                                "words": "of",
+                                "begin_time": 208370
+                            },
+                            {
+                                "end_time": 208630,
+                                "words": "the",
+                                "begin_time": 208480
+                            },
+                            {
+                                "end_time": 209140,
+                                "words": "exam",
+                                "begin_time": 208630
+                            },
+                            {
+                                "end_time": 209540,
+                                "words": "questions",
+                                "begin_time": 209140
+                            }
+                        ],
+                        "sn": "127066569471680446970",
+                        "corpus_no": "7217464780294338285"
+                    },
+                    {
+                        "res": [
+                            "before you hear the rest of the conversation you have some time to look at questions twenty six to thirty"
+                        ],
+                        "end_time": 220240,
+                        "begin_time": 213020,
+                        "words_info": [
+                            {
+                                "end_time": 214080,
+                                "words": "before",
+                                "begin_time": 213620
+                            },
+                            {
+                                "end_time": 214350,
+                                "words": "you",
+                                "begin_time": 214080
+                            },
+                            {
+                                "end_time": 214530,
+                                "words": "hear",
+                                "begin_time": 214350
+                            },
+                            {
+                                "end_time": 214730,
+                                "words": "the",
+                                "begin_time": 214530
+                            },
+                            {
+                                "end_time": 214930,
+                                "words": "rest",
+                                "begin_time": 214730
+                            },
+                            {
+                                "end_time": 215050,
+                                "words": "of",
+                                "begin_time": 214930
+                            },
+                            {
+                                "end_time": 215250,
+                                "words": "the",
+                                "begin_time": 215050
+                            },
+                            {
+                                "end_time": 216480,
+                                "words": "conversation",
+                                "begin_time": 215250
+                            },
+                            {
+                                "end_time": 216730,
+                                "words": "you",
+                                "begin_time": 216500
+                            },
+                            {
+                                "end_time": 216970,
+                                "words": "have",
+                                "begin_time": 216730
+                            },
+                            {
+                                "end_time": 217500,
+                                "words": "some",
+                                "begin_time": 216970
+                            },
+                            {
+                                "end_time": 217650,
+                                "words": "time",
+                                "begin_time": 217500
+                            },
+                            {
+                                "end_time": 217790,
+                                "words": "to",
+                                "begin_time": 217650
+                            },
+                            {
+                                "end_time": 217980,
+                                "words": "look",
+                                "begin_time": 217790
+                            },
+                            {
+                                "end_time": 218150,
+                                "words": "at",
+                                "begin_time": 217980
+                            },
+                            {
+                                "end_time": 218800,
+                                "words": "questions",
+                                "begin_time": 218150
+                            },
+                            {
+                                "end_time": 219350,
+                                "words": "twenty",
+                                "begin_time": 218800
+                            },
+                            {
+                                "end_time": 219700,
+                                "words": "six",
+                                "begin_time": 219350
+                            },
+                            {
+                                "end_time": 219990,
+                                "words": "to",
+                                "begin_time": 219700
+                            },
+                            {
+                                "end_time": 220240,
+                                "words": "thirty",
+                                "begin_time": 219990
+                            }
+                        ],
+                        "sn": "390056575981680446970",
+                        "corpus_no": "7217464780029299464"
+                    },
+                    {
+                        "res": [
+                            "now listen and answer questions twenty six to thirty"
+                        ],
+                        "end_time": 249205,
+                        "begin_time": 244460,
+                        "words_info": [
+                            {
+                                "end_time": 245210,
+                                "words": "now",
+                                "begin_time": 244990
+                            },
+                            {
+                                "end_time": 245990,
+                                "words": "listen",
+                                "begin_time": 245210
+                            },
+                            {
+                                "end_time": 246290,
+                                "words": "and",
+                                "begin_time": 245990
+                            },
+                            {
+                                "end_time": 246640,
+                                "words": "answer",
+                                "begin_time": 246290
+                            },
+                            {
+                                "end_time": 247360,
+                                "words": "questions",
+                                "begin_time": 246640
+                            },
+                            {
+                                "end_time": 247870,
+                                "words": "twenty",
+                                "begin_time": 247360
+                            },
+                            {
+                                "end_time": 248150,
+                                "words": "six",
+                                "begin_time": 247870
+                            },
+                            {
+                                "end_time": 248450,
+                                "words": "to",
+                                "begin_time": 248150
+                            },
+                            {
+                                "end_time": 248660,
+                                "words": "thirty",
+                                "begin_time": 248450
+                            }
+                        ],
+                        "sn": "956608465131680446970",
+                        "corpus_no": "7217464780070495063"
+                    },
+                    {
+                        "res": [
+                            "have you gotten feedback from your tutor on your presentation last week yes I have but I don't think he was very impressed he was satisfied by the amount of research that I had prepared before I started he criticized the fact that I was mostly summarising the facts instead of giving my own opinion"
+                        ],
+                        "end_time": 264980,
+                        "begin_time": 252160,
+                        "words_info": [
+                            {
+                                "end_time": 252850,
+                                "words": "have",
+                                "begin_time": 252710
+                            },
+                            {
+                                "end_time": 253010,
+                                "words": "you",
+                                "begin_time": 252850
+                            },
+                            {
+                                "end_time": 253410,
+                                "words": "gotten",
+                                "begin_time": 253010
+                            },
+                            {
+                                "end_time": 253810,
+                                "words": "feedback",
+                                "begin_time": 253410
+                            },
+                            {
+                                "end_time": 254030,
+                                "words": "from",
+                                "begin_time": 253810
+                            },
+                            {
+                                "end_time": 254230,
+                                "words": "your",
+                                "begin_time": 254030
+                            },
+                            {
+                                "end_time": 254510,
+                                "words": "tutor",
+                                "begin_time": 254230
+                            },
+                            {
+                                "end_time": 254680,
+                                "words": "on",
+                                "begin_time": 254510
+                            },
+                            {
+                                "end_time": 254820,
+                                "words": "your",
+                                "begin_time": 254680
+                            },
+                            {
+                                "end_time": 255510,
+                                "words": "presentation",
+                                "begin_time": 254820
+                            },
+                            {
+                                "end_time": 255800,
+                                "words": "last",
+                                "begin_time": 255510
+                            },
+                            {
+                                "end_time": 256870,
+                                "words": "week",
+                                "begin_time": 255800
+                            },
+                            {
+                                "end_time": 257150,
+                                "words": "yes",
+                                "begin_time": 256890
+                            },
+                            {
+                                "end_time": 257970,
+                                "words": "I",
+                                "begin_time": 257150
+                            },
+                            {
+                                "end_time": 258130,
+                                "words": "have",
+                                "begin_time": 257970
+                            },
+                            {
+                                "end_time": 258330,
+                                "words": "but",
+                                "begin_time": 258130
+                            },
+                            {
+                                "end_time": 258550,
+                                "words": "I",
+                                "begin_time": 258330
+                            },
+                            {
+                                "end_time": 258740,
+                                "words": "don't",
+                                "begin_time": 258550
+                            },
+                            {
+                                "end_time": 258900,
+                                "words": "think",
+                                "begin_time": 258740
+                            },
+                            {
+                                "end_time": 259040,
+                                "words": "he",
+                                "begin_time": 258900
+                            },
+                            {
+                                "end_time": 259320,
+                                "words": "was",
+                                "begin_time": 259040
+                            },
+                            {
+                                "end_time": 259620,
+                                "words": "very",
+                                "begin_time": 259320
+                            },
+                            {
+                                "end_time": 260640,
+                                "words": "impressed",
+                                "begin_time": 259620
+                            },
+                            {
+                                "end_time": 260850,
+                                "words": "he",
+                                "begin_time": 260660
+                            },
+                            {
+                                "end_time": 261060,
+                                "words": "was",
+                                "begin_time": 260850
+                            },
+                            {
+                                "end_time": 261720,
+                                "words": "satisfied",
+                                "begin_time": 261060
+                            },
+                            {
+                                "end_time": 261800,
+                                "words": "by",
+                                "begin_time": 261720
+                            },
+                            {
+                                "end_time": 261910,
+                                "words": "the",
+                                "begin_time": 261800
+                            },
+                            {
+                                "end_time": 262250,
+                                "words": "amount",
+                                "begin_time": 261910
+                            },
+                            {
+                                "end_time": 262520,
+                                "words": "of",
+                                "begin_time": 262250
+                            },
+                            {
+                                "end_time": 262960,
+                                "words": "research",
+                                "begin_time": 262520
+                            },
+                            {
+                                "end_time": 263150,
+                                "words": "that",
+                                "begin_time": 262960
+                            },
+                            {
+                                "end_time": 263310,
+                                "words": "I",
+                                "begin_time": 263150
+                            },
+                            {
+                                "end_time": 263510,
+                                "words": "had",
+                                "begin_time": 263310
+                            },
+                            {
+                                "end_time": 264020,
+                                "words": "prepared",
+                                "begin_time": 263510
+                            },
+                            {
+                                "end_time": 264410,
+                                "words": "before",
+                                "begin_time": 264020
+                            },
+                            {
+                                "end_time": 264500,
+                                "words": "I",
+                                "begin_time": 264410
+                            },
+                            {
+                                "end_time": 264980,
+                                "words": "started",
+                                "begin_time": 264500
+                            }
+                        ],
+                        "sn": "79548455531680446971",
+                        "corpus_no": "7217464784192969658"
+                    },
+                    {
+                        "res": [
+                            "oh that's a shame it was frustrating that he criticized my work but in the end I learned a lot from my tutors feedback he advised me that next time I should present my work as a short documentary film which he thinks will help me to strengthen my argument"
+                        ],
+                        "end_time": 273600,
+                        "begin_time": 271680,
+                        "words_info": [
+                            {
+                                "end_time": 272520,
+                                "words": "oh",
+                                "begin_time": 272330
+                            },
+                            {
+                                "end_time": 272730,
+                                "words": "that's",
+                                "begin_time": 272520
+                            },
+                            {
+                                "end_time": 273580,
+                                "words": "a",
+                                "begin_time": 272730
+                            },
+                            {
+                                "end_time": 273600,
+                                "words": "shame",
+                                "begin_time": 273580
+                            }
+                        ],
+                        "sn": "274031936211680446971",
+                        "corpus_no": "7217464784367987972"
+                    },
+                    {
+                        "res": [
+                            "what topic was your presentation based on I chose to write about the lack of knowledge that most people have about volcanoes and the fact that they see them in such a negative way"
+                        ],
+                        "end_time": 299560,
+                        "begin_time": 288400,
+                        "words_info": [
+                            {
+                                "end_time": 288870,
+                                "words": "what",
+                                "begin_time": 288650
+                            },
+                            {
+                                "end_time": 289180,
+                                "words": "topic",
+                                "begin_time": 288870
+                            },
+                            {
+                                "end_time": 289460,
+                                "words": "was",
+                                "begin_time": 289180
+                            },
+                            {
+                                "end_time": 289620,
+                                "words": "your",
+                                "begin_time": 289460
+                            },
+                            {
+                                "end_time": 290420,
+                                "words": "presentation",
+                                "begin_time": 289620
+                            },
+                            {
+                                "end_time": 291380,
+                                "words": "based",
+                                "begin_time": 290420
+                            },
+                            {
+                                "end_time": 291640,
+                                "words": "on",
+                                "begin_time": 291380
+                            },
+                            {
+                                "end_time": 291880,
+                                "words": "I",
+                                "begin_time": 291660
+                            },
+                            {
+                                "end_time": 292020,
+                                "words": "chose",
+                                "begin_time": 291880
+                            },
+                            {
+                                "end_time": 292170,
+                                "words": "to",
+                                "begin_time": 292020
+                            },
+                            {
+                                "end_time": 292280,
+                                "words": "write",
+                                "begin_time": 292170
+                            },
+                            {
+                                "end_time": 292550,
+                                "words": "about",
+                                "begin_time": 292280
+                            },
+                            {
+                                "end_time": 292720,
+                                "words": "the",
+                                "begin_time": 292550
+                            },
+                            {
+                                "end_time": 292930,
+                                "words": "lack",
+                                "begin_time": 292720
+                            },
+                            {
+                                "end_time": 293090,
+                                "words": "of",
+                                "begin_time": 292930
+                            },
+                            {
+                                "end_time": 293490,
+                                "words": "knowledge",
+                                "begin_time": 293090
+                            },
+                            {
+                                "end_time": 293690,
+                                "words": "that",
+                                "begin_time": 293490
+                            },
+                            {
+                                "end_time": 293880,
+                                "words": "most",
+                                "begin_time": 293690
+                            },
+                            {
+                                "end_time": 294250,
+                                "words": "people",
+                                "begin_time": 293880
+                            },
+                            {
+                                "end_time": 294370,
+                                "words": "have",
+                                "begin_time": 294250
+                            },
+                            {
+                                "end_time": 294830,
+                                "words": "about",
+                                "begin_time": 294370
+                            },
+                            {
+                                "end_time": 296330,
+                                "words": "volcanoes",
+                                "begin_time": 294830
+                            },
+                            {
+                                "end_time": 296500,
+                                "words": "and",
+                                "begin_time": 296330
+                            },
+                            {
+                                "end_time": 296850,
+                                "words": "the",
+                                "begin_time": 296500
+                            },
+                            {
+                                "end_time": 297020,
+                                "words": "fact",
+                                "begin_time": 296850
+                            },
+                            {
+                                "end_time": 297310,
+                                "words": "that",
+                                "begin_time": 297020
+                            },
+                            {
+                                "end_time": 297530,
+                                "words": "they",
+                                "begin_time": 297310
+                            },
+                            {
+                                "end_time": 297650,
+                                "words": "see",
+                                "begin_time": 297530
+                            },
+                            {
+                                "end_time": 297820,
+                                "words": "them",
+                                "begin_time": 297650
+                            },
+                            {
+                                "end_time": 297980,
+                                "words": "in",
+                                "begin_time": 297820
+                            },
+                            {
+                                "end_time": 298210,
+                                "words": "such",
+                                "begin_time": 297980
+                            },
+                            {
+                                "end_time": 298350,
+                                "words": "a",
+                                "begin_time": 298210
+                            },
+                            {
+                                "end_time": 299540,
+                                "words": "negative",
+                                "begin_time": 298350
+                            },
+                            {
+                                "end_time": 299560,
+                                "words": "way",
+                                "begin_time": 299540
+                            }
+                        ],
+                        "sn": "693362487341680446971",
+                        "corpus_no": "7217464784436638045"
+                    },
+                    {
+                        "res": [
+                            "during documentaries and lectures the scientific experts often neglect to mention the many positive features that volcanoes possess that sounds really interesting well done I think everyone enjoyed watching but I was really nervous about talking in front of an audience I also felt very under prepared"
+                        ],
+                        "end_time": 318440,
+                        "begin_time": 299680,
+                        "words_info": [
+                            {
+                                "end_time": 300200,
+                                "words": "during",
+                                "begin_time": 299880
+                            },
+                            {
+                                "end_time": 300890,
+                                "words": "documentaries",
+                                "begin_time": 300200
+                            },
+                            {
+                                "end_time": 301120,
+                                "words": "and",
+                                "begin_time": 300890
+                            },
+                            {
+                                "end_time": 302040,
+                                "words": "lectures",
+                                "begin_time": 301120
+                            },
+                            {
+                                "end_time": 302350,
+                                "words": "the",
+                                "begin_time": 302060
+                            },
+                            {
+                                "end_time": 302840,
+                                "words": "scientific",
+                                "begin_time": 302350
+                            },
+                            {
+                                "end_time": 303510,
+                                "words": "experts",
+                                "begin_time": 302840
+                            },
+                            {
+                                "end_time": 303820,
+                                "words": "often",
+                                "begin_time": 303510
+                            },
+                            {
+                                "end_time": 304230,
+                                "words": "neglect",
+                                "begin_time": 303820
+                            },
+                            {
+                                "end_time": 304420,
+                                "words": "to",
+                                "begin_time": 304230
+                            },
+                            {
+                                "end_time": 304680,
+                                "words": "mention",
+                                "begin_time": 304420
+                            },
+                            {
+                                "end_time": 304810,
+                                "words": "the",
+                                "begin_time": 304680
+                            },
+                            {
+                                "end_time": 305180,
+                                "words": "many",
+                                "begin_time": 304810
+                            },
+                            {
+                                "end_time": 305760,
+                                "words": "positive",
+                                "begin_time": 305180
+                            },
+                            {
+                                "end_time": 306250,
+                                "words": "features",
+                                "begin_time": 305760
+                            },
+                            {
+                                "end_time": 306500,
+                                "words": "that",
+                                "begin_time": 306250
+                            },
+                            {
+                                "end_time": 307190,
+                                "words": "volcanoes",
+                                "begin_time": 306500
+                            },
+                            {
+                                "end_time": 308470,
+                                "words": "possess",
+                                "begin_time": 307190
+                            },
+                            {
+                                "end_time": 308760,
+                                "words": "that",
+                                "begin_time": 308490
+                            },
+                            {
+                                "end_time": 309180,
+                                "words": "sounds",
+                                "begin_time": 308760
+                            },
+                            {
+                                "end_time": 309480,
+                                "words": "really",
+                                "begin_time": 309180
+                            },
+                            {
+                                "end_time": 310470,
+                                "words": "interesting",
+                                "begin_time": 309480
+                            },
+                            {
+                                "end_time": 311360,
+                                "words": "well",
+                                "begin_time": 310480
+                            },
+                            {
+                                "end_time": 311530,
+                                "words": "done",
+                                "begin_time": 311360
+                            },
+                            {
+                                "end_time": 311670,
+                                "words": "I",
+                                "begin_time": 311560
+                            },
+                            {
+                                "end_time": 311820,
+                                "words": "think",
+                                "begin_time": 311670
+                            },
+                            {
+                                "end_time": 312180,
+                                "words": "everyone",
+                                "begin_time": 311820
+                            },
+                            {
+                                "end_time": 312630,
+                                "words": "enjoyed",
+                                "begin_time": 312180
+                            },
+                            {
+                                "end_time": 313160,
+                                "words": "watching",
+                                "begin_time": 312630
+                            },
+                            {
+                                "end_time": 313300,
+                                "words": "but",
+                                "begin_time": 313190
+                            },
+                            {
+                                "end_time": 313380,
+                                "words": "I",
+                                "begin_time": 313300
+                            },
+                            {
+                                "end_time": 313620,
+                                "words": "was",
+                                "begin_time": 313380
+                            },
+                            {
+                                "end_time": 313990,
+                                "words": "really",
+                                "begin_time": 313620
+                            },
+                            {
+                                "end_time": 314240,
+                                "words": "nervous",
+                                "begin_time": 313990
+                            },
+                            {
+                                "end_time": 314660,
+                                "words": "about",
+                                "begin_time": 314240
+                            },
+                            {
+                                "end_time": 314940,
+                                "words": "talking",
+                                "begin_time": 314660
+                            },
+                            {
+                                "end_time": 315060,
+                                "words": "in",
+                                "begin_time": 314940
+                            },
+                            {
+                                "end_time": 315180,
+                                "words": "front",
+                                "begin_time": 315060
+                            },
+                            {
+                                "end_time": 315280,
+                                "words": "of",
+                                "begin_time": 315180
+                            },
+                            {
+                                "end_time": 315480,
+                                "words": "an",
+                                "begin_time": 315280
+                            },
+                            {
+                                "end_time": 316250,
+                                "words": "audience",
+                                "begin_time": 315480
+                            },
+                            {
+                                "end_time": 316460,
+                                "words": "I",
+                                "begin_time": 316270
+                            },
+                            {
+                                "end_time": 316920,
+                                "words": "also",
+                                "begin_time": 316460
+                            },
+                            {
+                                "end_time": 317090,
+                                "words": "felt",
+                                "begin_time": 316920
+                            },
+                            {
+                                "end_time": 317410,
+                                "words": "very",
+                                "begin_time": 317090
+                            },
+                            {
+                                "end_time": 317700,
+                                "words": "under",
+                                "begin_time": 317410
+                            },
+                            {
+                                "end_time": 318440,
+                                "words": "prepared",
+                                "begin_time": 317700
+                            }
+                        ],
+                        "sn": "774626281071680446971",
+                        "corpus_no": "7217464784261071249"
+                    },
+                    {
+                        "res": [
+                            "I didn't finish writing the presentation until the night before and therefore had no time to rehearse it I'm sure it was great is there any other information that you think we should include in our slideshow for revision"
+                        ],
+                        "end_time": 332280,
+                        "begin_time": 318640,
+                        "words_info": [
+                            {
+                                "end_time": 319120,
+                                "words": "I",
+                                "begin_time": 319020
+                            },
+                            {
+                                "end_time": 319420,
+                                "words": "didn't",
+                                "begin_time": 319120
+                            },
+                            {
+                                "end_time": 319870,
+                                "words": "finish",
+                                "begin_time": 319420
+                            },
+                            {
+                                "end_time": 320130,
+                                "words": "writing",
+                                "begin_time": 319870
+                            },
+                            {
+                                "end_time": 320270,
+                                "words": "the",
+                                "begin_time": 320130
+                            },
+                            {
+                                "end_time": 320950,
+                                "words": "presentation",
+                                "begin_time": 320270
+                            },
+                            {
+                                "end_time": 321220,
+                                "words": "until",
+                                "begin_time": 320950
+                            },
+                            {
+                                "end_time": 321450,
+                                "words": "the",
+                                "begin_time": 321220
+                            },
+                            {
+                                "end_time": 321630,
+                                "words": "night",
+                                "begin_time": 321450
+                            },
+                            {
+                                "end_time": 322440,
+                                "words": "before",
+                                "begin_time": 321630
+                            },
+                            {
+                                "end_time": 322650,
+                                "words": "and",
+                                "begin_time": 322460
+                            },
+                            {
+                                "end_time": 323370,
+                                "words": "therefore",
+                                "begin_time": 322650
+                            },
+                            {
+                                "end_time": 323690,
+                                "words": "had",
+                                "begin_time": 323370
+                            },
+                            {
+                                "end_time": 323950,
+                                "words": "no",
+                                "begin_time": 323690
+                            },
+                            {
+                                "end_time": 324090,
+                                "words": "time",
+                                "begin_time": 323950
+                            },
+                            {
+                                "end_time": 324230,
+                                "words": "to",
+                                "begin_time": 324090
+                            },
+                            {
+                                "end_time": 324700,
+                                "words": "rehearse",
+                                "begin_time": 324230
+                            },
+                            {
+                                "end_time": 325970,
+                                "words": "it",
+                                "begin_time": 324700
+                            },
+                            {
+                                "end_time": 326210,
+                                "words": "I'm",
+                                "begin_time": 326000
+                            },
+                            {
+                                "end_time": 326370,
+                                "words": "sure",
+                                "begin_time": 326210
+                            },
+                            {
+                                "end_time": 326500,
+                                "words": "it",
+                                "begin_time": 326370
+                            },
+                            {
+                                "end_time": 326970,
+                                "words": "was",
+                                "begin_time": 326500
+                            },
+                            {
+                                "end_time": 327640,
+                                "words": "great",
+                                "begin_time": 326970
+                            },
+                            {
+                                "end_time": 327830,
+                                "words": "is",
+                                "begin_time": 327670
+                            },
+                            {
+                                "end_time": 327990,
+                                "words": "there",
+                                "begin_time": 327830
+                            },
+                            {
+                                "end_time": 328260,
+                                "words": "any",
+                                "begin_time": 327990
+                            },
+                            {
+                                "end_time": 328500,
+                                "words": "other",
+                                "begin_time": 328260
+                            },
+                            {
+                                "end_time": 329220,
+                                "words": "information",
+                                "begin_time": 328500
+                            },
+                            {
+                                "end_time": 329380,
+                                "words": "that",
+                                "begin_time": 329220
+                            },
+                            {
+                                "end_time": 329550,
+                                "words": "you",
+                                "begin_time": 329380
+                            },
+                            {
+                                "end_time": 329730,
+                                "words": "think",
+                                "begin_time": 329550
+                            },
+                            {
+                                "end_time": 329860,
+                                "words": "we",
+                                "begin_time": 329730
+                            },
+                            {
+                                "end_time": 330070,
+                                "words": "should",
+                                "begin_time": 329860
+                            },
+                            {
+                                "end_time": 330430,
+                                "words": "include",
+                                "begin_time": 330070
+                            },
+                            {
+                                "end_time": 330660,
+                                "words": "in",
+                                "begin_time": 330430
+                            },
+                            {
+                                "end_time": 330760,
+                                "words": "our",
+                                "begin_time": 330660
+                            },
+                            {
+                                "end_time": 331500,
+                                "words": "slideshow",
+                                "begin_time": 330760
+                            },
+                            {
+                                "end_time": 331640,
+                                "words": "for",
+                                "begin_time": 331500
+                            },
+                            {
+                                "end_time": 332280,
+                                "words": "revision",
+                                "begin_time": 331640
+                            }
+                        ],
+                        "sn": "220357345201680446971",
+                        "corpus_no": "7217464784545230503"
+                    },
+                    {
+                        "res": [
+                            "yes I think it's important that we list all of the differences between active and extinct volcanoes as there will definitely be a question on this topic there are no documentaries on the subject but there's a very informative website that discusses the geological structure of each volcano type"
+                        ],
+                        "end_time": 349400,
+                        "begin_time": 332960,
+                        "words_info": [
+                            {
+                                "end_time": 333900,
+                                "words": "yes",
+                                "begin_time": 333590
+                            },
+                            {
+                                "end_time": 334050,
+                                "words": "I",
+                                "begin_time": 333920
+                            },
+                            {
+                                "end_time": 334190,
+                                "words": "think",
+                                "begin_time": 334050
+                            },
+                            {
+                                "end_time": 334360,
+                                "words": "it's",
+                                "begin_time": 334190
+                            },
+                            {
+                                "end_time": 334850,
+                                "words": "important",
+                                "begin_time": 334360
+                            },
+                            {
+                                "end_time": 335040,
+                                "words": "that",
+                                "begin_time": 334850
+                            },
+                            {
+                                "end_time": 335230,
+                                "words": "we",
+                                "begin_time": 335040
+                            },
+                            {
+                                "end_time": 335600,
+                                "words": "list",
+                                "begin_time": 335230
+                            },
+                            {
+                                "end_time": 335710,
+                                "words": "all",
+                                "begin_time": 335600
+                            },
+                            {
+                                "end_time": 335840,
+                                "words": "of",
+                                "begin_time": 335710
+                            },
+                            {
+                                "end_time": 336010,
+                                "words": "the",
+                                "begin_time": 335840
+                            },
+                            {
+                                "end_time": 336490,
+                                "words": "differences",
+                                "begin_time": 336010
+                            },
+                            {
+                                "end_time": 337060,
+                                "words": "between",
+                                "begin_time": 336490
+                            },
+                            {
+                                "end_time": 337570,
+                                "words": "active",
+                                "begin_time": 337060
+                            },
+                            {
+                                "end_time": 337800,
+                                "words": "and",
+                                "begin_time": 337570
+                            },
+                            {
+                                "end_time": 338430,
+                                "words": "extinct",
+                                "begin_time": 337800
+                            },
+                            {
+                                "end_time": 339470,
+                                "words": "volcanoes",
+                                "begin_time": 338430
+                            },
+                            {
+                                "end_time": 339610,
+                                "words": "as",
+                                "begin_time": 339490
+                            },
+                            {
+                                "end_time": 339740,
+                                "words": "there",
+                                "begin_time": 339610
+                            },
+                            {
+                                "end_time": 339920,
+                                "words": "will",
+                                "begin_time": 339740
+                            },
+                            {
+                                "end_time": 340340,
+                                "words": "definitely",
+                                "begin_time": 339920
+                            },
+                            {
+                                "end_time": 340480,
+                                "words": "be",
+                                "begin_time": 340340
+                            },
+                            {
+                                "end_time": 340660,
+                                "words": "a",
+                                "begin_time": 340480
+                            },
+                            {
+                                "end_time": 340960,
+                                "words": "question",
+                                "begin_time": 340660
+                            },
+                            {
+                                "end_time": 341100,
+                                "words": "on",
+                                "begin_time": 340960
+                            },
+                            {
+                                "end_time": 341340,
+                                "words": "this",
+                                "begin_time": 341100
+                            },
+                            {
+                                "end_time": 342180,
+                                "words": "topic",
+                                "begin_time": 341340
+                            },
+                            {
+                                "end_time": 342410,
+                                "words": "there",
+                                "begin_time": 342190
+                            },
+                            {
+                                "end_time": 342640,
+                                "words": "are",
+                                "begin_time": 342410
+                            },
+                            {
+                                "end_time": 342820,
+                                "words": "no",
+                                "begin_time": 342640
+                            },
+                            {
+                                "end_time": 343480,
+                                "words": "documentaries",
+                                "begin_time": 342820
+                            },
+                            {
+                                "end_time": 343610,
+                                "words": "on",
+                                "begin_time": 343480
+                            },
+                            {
+                                "end_time": 343820,
+                                "words": "the",
+                                "begin_time": 343610
+                            },
+                            {
+                                "end_time": 344340,
+                                "words": "subject",
+                                "begin_time": 343820
+                            },
+                            {
+                                "end_time": 344470,
+                                "words": "but",
+                                "begin_time": 344360
+                            },
+                            {
+                                "end_time": 344600,
+                                "words": "there's",
+                                "begin_time": 344470
+                            },
+                            {
+                                "end_time": 344730,
+                                "words": "a",
+                                "begin_time": 344600
+                            },
+                            {
+                                "end_time": 345070,
+                                "words": "very",
+                                "begin_time": 344730
+                            },
+                            {
+                                "end_time": 345820,
+                                "words": "informative",
+                                "begin_time": 345070
+                            },
+                            {
+                                "end_time": 346250,
+                                "words": "website",
+                                "begin_time": 345820
+                            },
+                            {
+                                "end_time": 346380,
+                                "words": "that",
+                                "begin_time": 346250
+                            },
+                            {
+                                "end_time": 346930,
+                                "words": "discusses",
+                                "begin_time": 346380
+                            },
+                            {
+                                "end_time": 347110,
+                                "words": "the",
+                                "begin_time": 346930
+                            },
+                            {
+                                "end_time": 347660,
+                                "words": "geological",
+                                "begin_time": 347110
+                            },
+                            {
+                                "end_time": 348250,
+                                "words": "structure",
+                                "begin_time": 347660
+                            },
+                            {
+                                "end_time": 348500,
+                                "words": "of",
+                                "begin_time": 348250
+                            },
+                            {
+                                "end_time": 348850,
+                                "words": "each",
+                                "begin_time": 348500
+                            },
+                            {
+                                "end_time": 349400,
+                                "words": "volcano",
+                                "begin_time": 348850
+                            },
+                            {
+                                "end_time": 349400,
+                                "words": "type",
+                                "begin_time": 349350
+                            }
+                        ],
+                        "sn": "884188556291680446971",
+                        "corpus_no": "7217464784405666471"
+                    },
+                    {
+                        "res": [
+                            "ok well I'll continue collecting images and you can carry on with the online research"
+                        ],
+                        "end_time": 355455,
+                        "begin_time": 349600,
+                        "words_info": [
+                            {
+                                "end_time": 350830,
+                                "words": "ok",
+                                "begin_time": 349860
+                            },
+                            {
+                                "end_time": 351100,
+                                "words": "well",
+                                "begin_time": 350830
+                            },
+                            {
+                                "end_time": 351270,
+                                "words": "I'll",
+                                "begin_time": 351100
+                            },
+                            {
+                                "end_time": 351760,
+                                "words": "continue",
+                                "begin_time": 351270
+                            },
+                            {
+                                "end_time": 352220,
+                                "words": "collecting",
+                                "begin_time": 351760
+                            },
+                            {
+                                "end_time": 352800,
+                                "words": "images",
+                                "begin_time": 352220
+                            },
+                            {
+                                "end_time": 352950,
+                                "words": "and",
+                                "begin_time": 352800
+                            },
+                            {
+                                "end_time": 353170,
+                                "words": "you",
+                                "begin_time": 352950
+                            },
+                            {
+                                "end_time": 353350,
+                                "words": "can",
+                                "begin_time": 353170
+                            },
+                            {
+                                "end_time": 353700,
+                                "words": "carry",
+                                "begin_time": 353350
+                            },
+                            {
+                                "end_time": 353820,
+                                "words": "on",
+                                "begin_time": 353700
+                            },
+                            {
+                                "end_time": 353960,
+                                "words": "with",
+                                "begin_time": 353820
+                            },
+                            {
+                                "end_time": 354120,
+                                "words": "the",
+                                "begin_time": 353960
+                            },
+                            {
+                                "end_time": 354730,
+                                "words": "online",
+                                "begin_time": 354230
+                            },
+                            {
+                                "end_time": 355340,
+                                "words": "research",
+                                "begin_time": 354730
+                            }
+                        ],
+                        "sn": "827719346021680446971",
+                        "corpus_no": "7217464784395670328"
+                    },
+                    {
+                        "res": [
+                            "that is the end of section three you now have half a minute to check your answers"
+                        ],
+                        "end_time": 365180,
+                        "begin_time": 358760,
+                        "words_info": [
+                            {
+                                "end_time": 359640,
+                                "words": "that",
+                                "begin_time": 359450
+                            },
+                            {
+                                "end_time": 359820,
+                                "words": "is",
+                                "begin_time": 359640
+                            },
+                            {
+                                "end_time": 360190,
+                                "words": "the",
+                                "begin_time": 359820
+                            },
+                            {
+                                "end_time": 360470,
+                                "words": "end",
+                                "begin_time": 360190
+                            },
+                            {
+                                "end_time": 360730,
+                                "words": "of",
+                                "begin_time": 360470
+                            },
+                            {
+                                "end_time": 362050,
+                                "words": "section",
+                                "begin_time": 360730
+                            },
+                            {
+                                "end_time": 362330,
+                                "words": "three",
+                                "begin_time": 362050
+                            },
+                            {
+                                "end_time": 362630,
+                                "words": "you",
+                                "begin_time": 362350
+                            },
+                            {
+                                "end_time": 362890,
+                                "words": "now",
+                                "begin_time": 362630
+                            },
+                            {
+                                "end_time": 363150,
+                                "words": "have",
+                                "begin_time": 362890
+                            },
+                            {
+                                "end_time": 363330,
+                                "words": "half",
+                                "begin_time": 363150
+                            },
+                            {
+                                "end_time": 363470,
+                                "words": "a",
+                                "begin_time": 363330
+                            },
+                            {
+                                "end_time": 364120,
+                                "words": "minute",
+                                "begin_time": 363470
+                            },
+                            {
+                                "end_time": 364330,
+                                "words": "to",
+                                "begin_time": 364120
+                            },
+                            {
+                                "end_time": 364530,
+                                "words": "check",
+                                "begin_time": 364330
+                            },
+                            {
+                                "end_time": 364840,
+                                "words": "your",
+                                "begin_time": 364530
+                            },
+                            {
+                                "end_time": 365180,
+                                "words": "answers",
+                                "begin_time": 364840
+                            }
+                        ],
+                        "sn": "18973615201680446972",
+                        "corpus_no": "7217464788645101148"
+                    },
+                    {
+                        "res": [
+                            "now turn to section four"
+                        ],
+                        "end_time": 397280,
+                        "begin_time": 394560,
+                        "words_info": [
+                            {
+                                "end_time": 395760,
+                                "words": "now",
+                                "begin_time": 395360
+                            },
+                            {
+                                "end_time": 395930,
+                                "words": "turn",
+                                "begin_time": 395760
+                            },
+                            {
+                                "end_time": 396170,
+                                "words": "to",
+                                "begin_time": 395930
+                            },
+                            {
+                                "end_time": 396810,
+                                "words": "section",
+                                "begin_time": 396170
+                            },
+                            {
+                                "end_time": 396860,
+                                "words": "four",
+                                "begin_time": 396810
+                            }
+                        ],
+                        "sn": "263605342751680446972",
+                        "corpus_no": "7217464788891172315"
+                    }
+                ],
+                "corpus_no": "7217464775916727598"
+            },
+            "task_id": "642995deea05a000018dea25"
+        },
+        {
+            "task_status": "Success",
+            "task_result": {
+                "result": [
+                    "haa,wow,wow"
+                ],
+                "audio_duration": 149431,
+                "detailed_result": [
+                    {
+                        "res": [
+                            "haa"
+                        ],
+                        "end_time": 3425,
+                        "begin_time": 40,
+                        "words_info": [
+                            {
+                                "end_time": 2910,
+                                "words": "haa",
+                                "begin_time": 2830
+                            }
+                        ],
+                        "sn": "229839666021680448941",
+                        "corpus_no": "7217473245539201185"
+                    },
+                    {
+                        "res": [
+                            "wow"
+                        ],
+                        "end_time": 4695,
+                        "begin_time": 3780,
+                        "words_info": [
+                            {
+                                "end_time": 4620,
+                                "words": "wow",
+                                "begin_time": 4570
+                            }
+                        ],
+                        "sn": "788168685541680448941",
+                        "corpus_no": "7217473245454853143"
+                    },
+                    {
+                        "res": [
+                            "wow"
+                        ],
+                        "end_time": 79635,
+                        "begin_time": 77460,
+                        "words_info": [
+                            {
+                                "end_time": 78430,
+                                "words": "wow",
+                                "begin_time": 78390
+                            }
+                        ],
+                        "sn": "766613149221680448942",
+                        "corpus_no": "7217473249776079202"
+                    }
+                ],
+                "corpus_no": "7217473245539201185"
+            },
+            "task_id": "64299d9e6ce607000107953b"
+        }
+    ]
+}
