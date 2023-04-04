@@ -10,7 +10,14 @@ import (
 	"strings"
 )
 
-func (c *BaiduClient) CreateAttTask(fileUrl string) (string, error) {
+type CreateTaskRes struct {
+	// {"log_id":16806262779913675,"task_status":"Created","task_id":"642c5266871a4d0001e4d2ca"}
+	LogId      int64  `json:"log_id"`
+	TaskStatus string `json:"task_status"`
+	TaskId     string `json:"task_id"`
+}
+
+func (c *BaiduClient) CreateAttTask(fileUrl string) (*CreateTaskRes, error) {
 
 	if c.Token == nil {
 		c.GetToken()
@@ -27,7 +34,7 @@ func (c *BaiduClient) CreateAttTask(fileUrl string) (string, error) {
 
 	if err != nil {
 		fmt.Println(err)
-		return "", err
+		return nil, err
 	}
 	req.Header.Add("Content-Type", "application/json")
 	req.Header.Add("Accept", "application/json")
@@ -37,18 +44,25 @@ func (c *BaiduClient) CreateAttTask(fileUrl string) (string, error) {
 	//res, err := http.PostForm(url, arg.ToValues())
 	if err != nil {
 		log.Println(err)
-		return "", err
+		return nil, err
 	}
 	defer res.Body.Close()
 
 	dat, err := ioutil.ReadAll(res.Body)
 	if err != nil {
 		log.Println(err)
-		return "", err
+		return nil, err
 	}
 
-	log.Println(string(dat))
-	return string(dat), nil
+	ret := &CreateTaskRes{}
+	err = json.Unmarshal(dat, ret)
+	if err != nil {
+		log.Println(err)
+		return nil, err
+	}
+
+	//log.Println(string(dat))
+	return ret, nil
 }
 
 func (c *BaiduClient) GetTaskResult(taskIDs []string) (*BaiduATTTaskResult, error) {

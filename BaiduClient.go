@@ -64,7 +64,7 @@ func (c *BaiduClient) GetToken() error {
 	}
 	c.Token = tk
 
-	fmt.Println(tk.Access_token)
+	//fmt.Println(tk.Access_token)
 
 	return nil
 }
