@@ -110,9 +110,9 @@ func (c *BaiduClient) GetTaskResult(taskIDs []string) (*BaiduATTTaskResult, erro
 
 	var ttsr = BaiduATTTaskResult{}
 
-	log.Println(string(dat))
+	//log.Println(string(dat))
 	json.Unmarshal(dat, &ttsr)
-	log.Println(ttsr)
+	//log.Println(ttsr)
 	return &ttsr, nil
 }
 
