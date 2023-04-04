@@ -141,13 +141,13 @@ type BaiduATTTaskDetailedResult struct {
 }
 
 type TextResult struct {
-	CorpusNo       string   `json:"corpus_no"`       // ++corpus_no	str	否
-	Result         string   `json:"result"`          // ++result	str	否	转写结果
-	AudioDuration  int      `json:"audio_duration"`  // ++audio_duration	int	否	音频时长（毫秒）
-	DetailedResult []string `json:"detailed_result"` // ++detailed_result	list	否	转写详细结果
-	ErrNo          int      `json:"err_no"`          // ++err_no	int	否	转写失败错误码
-	ErrMsg         string   `json:"err_msg"`         // ++err_msg	str	否	转写失败错误信息
-	Sn             string   `json:"sn"`              // ++sn	str	否
+	CorpusNo       string                       `json:"corpus_no"`       // ++corpus_no	str	否
+	Result         string                       `json:"result"`          // ++result	str	否	转写结果
+	AudioDuration  int                          `json:"audio_duration"`  // ++audio_duration	int	否	音频时长（毫秒）
+	DetailedResult []BaiduATTTaskDetailedResult `json:"detailed_result"` // ++detailed_result	list	否	转写详细结果
+	ErrNo          int                          `json:"err_no"`          // ++err_no	int	否	转写失败错误码
+	ErrMsg         string                       `json:"err_msg"`         // ++err_msg	str	否	转写失败错误信息
+	Sn             string                       `json:"sn"`              // ++sn	str	否
 }
 type BaiduATTTaskInfo struct {
 	TaskId     string     `json:"task_id"`     // +task_id	str	是	任务id
