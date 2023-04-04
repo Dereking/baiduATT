@@ -144,14 +144,20 @@ func (att *AudioToTextModel) ToValues() url.Values {
 	return values
 }
 
+type BaiduATTTaskDetailedResultWordsInfo struct {
+	EndTime   int    `json:"end_time"`   // "end_time": 1170,
+	Words     string `json:"words"`      // "words": "section",
+	BeginTime int    `json:"begin_time"` // "begin_time": 580
+}
+
 type BaiduATTTaskDetailedResult struct {
 	Res     []string `json:"res"`      //["观众朋友大家好，欢迎收看本期视频哦。"]
 	EndTime int      `json:"end_time"` //"end_time": 6700,
 
-	BeginTime int      `json:"begin_time"` //"begin_time": 4240,
-	WordsInfo []string `json:"words_info"` //"words_info": [],
-	Sn        string   `json:"sn"`         //"sn": "257826606251573543780",
-	CorpusNo  string   `json:"corpus_no"`  //"corpus_no": "6758319075297447880"
+	BeginTime int                                   `json:"begin_time"` //"begin_time": 4240,
+	WordsInfo []BaiduATTTaskDetailedResultWordsInfo `json:"words_info"` //"words_info": [],
+	Sn        string                                `json:"sn"`         //"sn": "257826606251573543780",
+	CorpusNo  string                                `json:"corpus_no"`  //"corpus_no": "6758319075297447880"
 }
 
 type TextResult struct {
