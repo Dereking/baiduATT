@@ -80,7 +80,7 @@ func (c *BaiduClient) GetTaskResult(taskIDs []string) (*BaiduATTTaskResult, erro
 		ids = ids + "\"" + taskIDs[i] + "\","
 	}
 	ids = ids[:len(ids)-1] + "]"
-	log.Println(ids)
+	//log.Println(ids)
 	payload := strings.NewReader(fmt.Sprintf(`{"task_ids":%s}`, ids))
 
 	client := &http.Client{}
@@ -111,7 +111,11 @@ func (c *BaiduClient) GetTaskResult(taskIDs []string) (*BaiduATTTaskResult, erro
 	var ttsr = BaiduATTTaskResult{}
 
 	//log.Println(string(dat))
-	json.Unmarshal(dat, &ttsr)
+	err = json.Unmarshal(dat, &ttsr)
+	if err != nil {
+		log.Println(err)
+		return nil, err
+	}
 	//log.Println(ttsr)
 	return &ttsr, nil
 }
