@@ -1,4 +1,4 @@
-package main
+package baiduATT
 
 import (
 	"encoding/json"
